@@ -1,0 +1,298 @@
+﻿code_name,SMILES
+2.4-Dichlorophenoxyacetic acid,C1=CC(=C(C=C1Cl)Cl)OCC(=O)O
+4-Phenylbutylamine,C1=CC=C(C=C1)CCCCN
+5-Phenylvaleric acid,C1=CC=C(C=C1)CCCCC(=O)O
+6-Acetylmorphine,CC(=O)OC1C=CC2C3CC4=C5C2(C1OC5=C(C=C4)O)CCN3C
+Acebutolol,CCCC(=O)NC1=CC(=C(C=C1)OCC(CNC(C)C)O)C(=O)C
+Alprenolol,CC(C)NCC(COC1=CC=CC=C1CC=C)O
+Amiodarone,CCCCC1=C(C2=CC=CC=C2O1)C(=O)C3=CC(=C(C(=C3)I)OCCN(CC)CC)I
+Amitriptyline,CN(C)CCC=C1C2=CC=CC=C2CCC3=CC=CC=C31
+Amlodipine,CCOC(=O)C1=C(NC(=C(C1C2=CC=CC=C2Cl)C(=O)OC)C)COCCN
+Atropine,CN1C2CCC1CC(C2)OC(=O)C(CO)C3=CC=CC=C3
+Buprenorphine,CC(C)(C)C(C)(C1CC23CCC1(C4C25CCN(C3CC6=C5C(=C(C=C6)O)O4)CC7CC7)OC)O
+Carazolol,CC(C)NCC(COC1=CC=CC2=C1C3=CC=CC=C3N2)O
+Carvedilol,COC1=CC=CC=C1OCCNCC(COC2=CC=CC3=C2C4=CC=CC=C4N3)O
+Chlorpromazine,CN(C)CCCN1C2=CC=CC=C2SC3=C1C=C(C=C3)Cl
+Ciprofloxacin,C1CC1N2C=C(C(=O)C3=CC(=C(C=C32)N4CCNCC4)F)C(=O)O
+Debrisoquine,C1CN(CC2=CC=CC=C21)C(=N)N
+Deprenyl,CC(CC1=CC=CC=C1)N(C)CC#C
+Desipramine,CNCCCN1C2=CC=CC=C2CCC3=CC=CC=C31
+Diclofenac,C1=CC=C(C(=C1)CC(=O)O)NC2=C(C=CC=C2Cl)Cl
+Diphenhydramine,CN(C)CCOC(C1=CC=CC=C1)C2=CC=CC=C2
+Ephedrine,CC(C(C1=CC=CC=C1)O)NC
+Ergonovine,CC(CO)NC(=O)C1CN(C2CC3=CNC4=CC=CC(=C34)C2=C1)C
+Erythromycin,CCC1C(C(C(C(=O)C(CC(C(C(C(C(C(=O)O1)C)OC2CC(C(C(O2)C)O)(C)OC)C)OC3C(C(CC(O3)C)N(C)C)O)(C)O)C)C)O)(C)O
+Ethinylestradiol,CC12CCC3C(C1CCC2(C#C)O)CCC4=C3C=CC(=C4)O
+Famotidine,C1=C(N=C(S1)N=C(N)N)CSCCC(=NS(=O)(=O)N)N
+Flufenamic acid,C1=CC=C(C(=C1)C(=O)O)NC2=CC=CC(=C2)C(F)(F)F
+Fluvastatin,CC(C)N1C2=CC=CC=C2C(=C1C=CC(CC(CC(=O)O)O)O)C3=CC=C(C=C3)F
+Haloperidol,C1CN(CCC1(C2=CC=C(C=C2)Cl)O)CCCC(=O)C3=CC=C(C=C3)F
+Hydrochlorothiazide,C1NC2=CC(=C(C=C2S(=O)(=O)N1)S(=O)(=O)N)Cl
+Ibuprofen,CC(C)CC1=CC=C(C=C1)C(C)C(=O)O
+Imipramine,CN(C)CCCN1C2=CC=CC=C2CCC3=CC=CC=C31
+Indomethacin,CC1=C(C2=C(N1C(=O)C3=CC=C(C=C3)Cl)C=CC(=C2)OC)CC(=O)O
+Ketoprofen,CC(C1=CC(=CC=C1)C(=O)C2=CC=CC=C2)C(=O)O
+Lidocaine,CCN(CC)CC(=O)NC1=C(C=CC=C1C)C
+Meloxicam,CC1=CN=C(S1)NC(=O)C2=C(C3=CC=CC=C3S(=O)(=O)N2C)O
+Metipranolol,CC1=CC(=C(C(=C1OC(=O)C)C)C)OCC(CNC(C)C)O
+Metoprolol,CC(C)NCC(COC1=CC=C(C=C1)CCOC)O
+Morphine sulfate,CN1CCC23C4C1CC5=C2C(=C(C=C5)O)OC3C(C=C4)O
+Naproxen,CC(C1=CC2=C(C=C1)C=C(C=C2)OC)C(=O)O
+Nortriptyline,CNCCC=C1C2=CC=CC=C2CCC3=CC=CC=C31
+Ofloxacin,CC1COC2=C3N1C=C(C(=O)C3=CC(=C2N4CCN(CC4)C)F)C(=O)O
+Oxprenolol,CC(C)NCC(COC1=CC=CC=C1OCC=C)O
+Papaverine,COC1=C(C=C(C=C1)CC2=NC=CC3=CC(=C(C=C32)OC)OC)OC
+Penbutolol,CC(C)(C)NCC(COC1=CC=CC=C1C2CCCC2)O
+p-F-Deprenyl,CC(CC1=CC=C(C=C1)F)N(C)CC#C
+Phenazopyridine,C1=CC=C(C=C1)N=NC2=C(N=C(C=C2)N)N
+Pindolol,CC(C)NCC(COC1=CC=CC2=C1C=CN2)O
+Primaquine,CC(CCCN)NC1=C2C(=CC(=C1)OC)C=CC=N2
+Probenecid,CCCN(CCC)S(=O)(=O)C1=CC=C(C=C1)C(=O)O
+Procaine,CCN(CC)CCOC(=O)C1=CC=C(C=C1)N
+Propranolol,CC(C)NCC(COC1=CC=CC2=CC=CC=C21)O
+Prostaglandin E1,CCCCCC(C=CC1C(CC(=O)C1CCCCCCC(=O)O)O)O
+Prostaglandin E2,CCCCCC(C=CC1C(CC(=O)C1CC=CCCCC(=O)O)O)O
+Pyridoxine,CC1=NC=C(C(=C1O)CO)CO
+Quinine,COC1=CC2=C(C=CN=C2C=C1)C(C3CC4CCN3CC4C=C)O
+Roxithromycin,CCC1C(C(C(C(=NOCOCCOC)C(CC(C(C(C(C(C(=O)O1)C)OC2CC(C(C(O2)C)O)(C)OC)C)OC3C(C(CC(O3)C)N(C)C)O)(C)O)C)C)O)(C)O
+Serotonin,C1=CC2=C(C=C1O)C(=CN2)CCN
+Sotalol,CC(C)NCC(C1=CC=C(C=C1)NS(=O)(=O)C)O
+Sulfasalazine,C1=CC=NC(=C1)NS(=O)(=O)C2=CC=C(C=C2)N=NC3=CC(=C(C=C3)O)C(=O)O
+Tamoxifen,CCC(=C(C1=CC=CC=C1)C2=CC=C(C=C2)OCCN(C)C)C3=CC=CC=C3
+Terfenadine,CC(C)(C)C1=CC=C(C=C1)C(CCCN2CCC(CC2)C(C3=CC=CC=C3)(C4=CC=CC=C4)O)O
+Timolol,CC(C)(C)NCC(COC1=NSN=C1N2CCOCC2)O
+Trimethoprim,COC1=CC(=CC(=C1OC)OC)CC2=CN=C(N=C2N)N
+Trovafloxacin,C1C2C(C2N)CN1C3=C(C=C4C(=O)C(=CN(C4=N3)C5=C(C=C(C=C5)F)F)C(=O)O)F
+Verapamil,CC(C)C(CCCN(C)CCC1=CC(=C(C=C1)OC)OC)(C#N)C2=CC(=C(C=C2)OC)OC
+Warfarin,CC(=O)CC(C1=CC=CC=C1)C2=C(C3=CC=CC=C3OC2=O)O
+Trimethoprim,COC1=CC(=CC(=C1OC)OC)CC2=CN=C(N=C2N)N
+Trimethoprim,COC1=CC(=CC(=C1OC)OC)CC2=CN=C(N=C2N)N
+Trimethoprim,COC1=CC(=CC(=C1OC)OC)CC2=CN=C(N=C2N)N
+Salicylic acid,C1=CC=C(C(=C1)C(=O)O)O
+Salicylic acid,C1=CC=C(C(=C1)C(=O)O)O
+Salicylic acid,C1=CC=C(C(=C1)C(=O)O)O
+Salicylic acid,C1=CC=C(C(=C1)C(=O)O)O
+Salicylic acid,C1=CC=C(C(=C1)C(=O)O)O
+Salicylic acid,C1=CC=C(C(=C1)C(=O)O)O
+Salicylic acid,C1=CC=C(C(=C1)C(=O)O)O
+Salicylic acid,C1=CC=C(C(=C1)C(=O)O)O
+Salicylic acid,C1=CC=C(C(=C1)C(=O)O)O
+Diflunisal,C1=CC(=C(C=C1C2=C(C=C(C=C2)F)F)C(=O)O)O
+Diflunisal,C1=CC(=C(C=C1C2=C(C=C(C=C2)F)F)C(=O)O)O
+Diflunisal,C1=CC(=C(C=C1C2=C(C=C(C=C2)F)F)C(=O)O)O
+Diflunisal,C1=CC(=C(C=C1C2=C(C=C(C=C2)F)F)C(=O)O)O
+Diflunisal,C1=CC(=C(C=C1C2=C(C=C(C=C2)F)F)C(=O)O)O
+Diflunisal,C1=CC(=C(C=C1C2=C(C=C(C=C2)F)F)C(=O)O)O
+Diflunisal,C1=CC(=C(C=C1C2=C(C=C(C=C2)F)F)C(=O)O)O
+Diflunisal,C1=CC(=C(C=C1C2=C(C=C(C=C2)F)F)C(=O)O)O
+Diflunisal,C1=CC(=C(C=C1C2=C(C=C(C=C2)F)F)C(=O)O)O
+Tolmetin,CC1=CC=C(C=C1)C(=O)C2=CC=C(N2C)CC(=O)O
+Tolmetin,CC1=CC=C(C=C1)C(=O)C2=CC=C(N2C)CC(=O)O
+Tolmetin,CC1=CC=C(C=C1)C(=O)C2=CC=C(N2C)CC(=O)O
+Tolmetin,CC1=CC=C(C=C1)C(=O)C2=CC=C(N2C)CC(=O)O
+Tolmetin,CC1=CC=C(C=C1)C(=O)C2=CC=C(N2C)CC(=O)O
+Tolmetin,CC1=CC=C(C=C1)C(=O)C2=CC=C(N2C)CC(=O)O
+Tolmetin,CC1=CC=C(C=C1)C(=O)C2=CC=C(N2C)CC(=O)O
+Tolmetin,CC1=CC=C(C=C1)C(=O)C2=CC=C(N2C)CC(=O)O
+Tolmetin,CC1=CC=C(C=C1)C(=O)C2=CC=C(N2C)CC(=O)O
+Naproxen,CC(C1=CC2=C(C=C1)C=C(C=C2)OC)C(=O)O
+Naproxen,CC(C1=CC2=C(C=C1)C=C(C=C2)OC)C(=O)O
+Naproxen,CC(C1=CC2=C(C=C1)C=C(C=C2)OC)C(=O)O
+Naproxen,CC(C1=CC2=C(C=C1)C=C(C=C2)OC)C(=O)O
+Naproxen,CC(C1=CC2=C(C=C1)C=C(C=C2)OC)C(=O)O
+Naproxen,CC(C1=CC2=C(C=C1)C=C(C=C2)OC)C(=O)O
+Naproxen,CC(C1=CC2=C(C=C1)C=C(C=C2)OC)C(=O)O
+Naproxen,CC(C1=CC2=C(C=C1)C=C(C=C2)OC)C(=O)O
+Naproxen,CC(C1=CC2=C(C=C1)C=C(C=C2)OC)C(=O)O
+Mefenamic acid,CC1=C(C(=CC=C1)NC2=CC=CC=C2C(=O)O)C
+Mefenamic acid,CC1=C(C(=CC=C1)NC2=CC=CC=C2C(=O)O)C
+Mefenamic acid,CC1=C(C(=CC=C1)NC2=CC=CC=C2C(=O)O)C
+Mefenamic acid,CC1=C(C(=CC=C1)NC2=CC=CC=C2C(=O)O)C
+Mefenamic acid,CC1=C(C(=CC=C1)NC2=CC=CC=C2C(=O)O)C
+Mefenamic acid,CC1=C(C(=CC=C1)NC2=CC=CC=C2C(=O)O)C
+Mefenamic acid,CC1=C(C(=CC=C1)NC2=CC=CC=C2C(=O)O)C
+Mefenamic acid,CC1=C(C(=CC=C1)NC2=CC=CC=C2C(=O)O)C
+Diclofenac,C1=CC=C(C(=C1)CC(=O)O)NC2=C(C=CC=C2Cl)Cl
+Diclofenac,C1=CC=C(C(=C1)CC(=O)O)NC2=C(C=CC=C2Cl)Cl
+Diclofenac,C1=CC=C(C(=C1)CC(=O)O)NC2=C(C=CC=C2Cl)Cl
+Diclofenac,C1=CC=C(C(=C1)CC(=O)O)NC2=C(C=CC=C2Cl)Cl
+Diclofenac,C1=CC=C(C(=C1)CC(=O)O)NC2=C(C=CC=C2Cl)Cl
+Diclofenac,C1=CC=C(C(=C1)CC(=O)O)NC2=C(C=CC=C2Cl)Cl
+Diclofenac,C1=CC=C(C(=C1)CC(=O)O)NC2=C(C=CC=C2Cl)Cl
+Diclofenac,C1=CC=C(C(=C1)CC(=O)O)NC2=C(C=CC=C2Cl)Cl
+Diclofenac,C1=CC=C(C(=C1)CC(=O)O)NC2=C(C=CC=C2Cl)Cl
+Sulindac,CC1=C(C2=C(C1=CC3=CC=C(C=C3)S(=O)C)C=CC(=C2)F)CC(=O)O
+Sulindac,CC1=C(C2=C(C1=CC3=CC=C(C=C3)S(=O)C)C=CC(=C2)F)CC(=O)O
+Sulindac,CC1=C(C2=C(C1=CC3=CC=C(C=C3)S(=O)C)C=CC(=C2)F)CC(=O)O
+Sulindac,CC1=C(C2=C(C1=CC3=CC=C(C=C3)S(=O)C)C=CC(=C2)F)CC(=O)O
+Sulindac,CC1=C(C2=C(C1=CC3=CC=C(C=C3)S(=O)C)C=CC(=C2)F)CC(=O)O
+Sulindac,CC1=C(C2=C(C1=CC3=CC=C(C=C3)S(=O)C)C=CC(=C2)F)CC(=O)O
+Sulindac,CC1=C(C2=C(C1=CC3=CC=C(C=C3)S(=O)C)C=CC(=C2)F)CC(=O)O
+Sulindac,CC1=C(C2=C(C1=CC3=CC=C(C=C3)S(=O)C)C=CC(=C2)F)CC(=O)O
+Indomethacin,CC1=C(C2=C(N1C(=O)C3=CC=C(C=C3)Cl)C=CC(=C2)OC)CC(=O)O
+Indomethacin,CC1=C(C2=C(N1C(=O)C3=CC=C(C=C3)Cl)C=CC(=C2)OC)CC(=O)O
+Indomethacin,CC1=C(C2=C(N1C(=O)C3=CC=C(C=C3)Cl)C=CC(=C2)OC)CC(=O)O
+Indomethacin,CC1=C(C2=C(N1C(=O)C3=CC=C(C=C3)Cl)C=CC(=C2)OC)CC(=O)O
+Indomethacin,CC1=C(C2=C(N1C(=O)C3=CC=C(C=C3)Cl)C=CC(=C2)OC)CC(=O)O
+Indomethacin,CC1=C(C2=C(N1C(=O)C3=CC=C(C=C3)Cl)C=CC(=C2)OC)CC(=O)O
+Indomethacin,CC1=C(C2=C(N1C(=O)C3=CC=C(C=C3)Cl)C=CC(=C2)OC)CC(=O)O
+Indomethacin,CC1=C(C2=C(N1C(=O)C3=CC=C(C=C3)Cl)C=CC(=C2)OC)CC(=O)O
+Ibuprofen,CC(C)CC1=CC=C(C=C1)C(C)C(=O)O
+Ibuprofen,CC(C)CC1=CC=C(C=C1)C(C)C(=O)O
+Ibuprofen,CC(C)CC1=CC=C(C=C1)C(C)C(=O)O
+Fluphenamic acid,C1=CC=C(C(=C1)C(=O)O)NC2=CC=CC(=C2)C(F)(F)F
+Fluphenamic acid,C1=CC=C(C(=C1)C(=O)O)NC2=CC=CC(=C2)C(F)(F)F
+Fluphenamic acid,C1=CC=C(C(=C1)C(=O)O)NC2=CC=CC(=C2)C(F)(F)F
+Indoprofen,CC(C1=CC=C(C=C1)N2CC3=CC=CC=C3C2=O)C(=O)O
+Indoprofen,CC(C1=CC=C(C=C1)N2CC3=CC=CC=C3C2=O)C(=O)O
+Indoprofen,CC(C1=CC=C(C=C1)N2CC3=CC=CC=C3C2=O)C(=O)O
+Ketoprofene,CC(C1=CC(=CC=C1)C(=O)C2=CC=CC=C2)C(=O)O
+Ketoprofene,CC(C1=CC(=CC=C1)C(=O)C2=CC=CC=C2)C(=O)O
+Ketoprofene,CC(C1=CC(=CC=C1)C(=O)C2=CC=CC=C2)C(=O)O
+15421,C1COC(C2=CC=CC=C21)C3CSC(=N3)N
+15421,C1COC(C2=CC=CC=C21)C3CSC(=N3)N
+15421,C1COC(C2=CC=CC=C21)C3CSC(=N3)N
+1774,CC(C)C(C)NC(CO)C(C1=CC=CC=C1)O
+1774,CC(C)C(C)NC(CO)C(C1=CC=CC=C1)O
+1774,CC(C)C(C)NC(CO)C(C1=CC=CC=C1)O
+1774,CC(C)C(C)NC(CO)C(C1=CC=CC=C1)O
+1774,CC(C)C(C)NC(CO)C(C1=CC=CC=C1)O
+1774,CC(C)C(C)NC(CO)C(C1=CC=CC=C1)O
+1774,CC(C)C(C)NC(CO)C(C1=CC=CC=C1)O
+1923,CC(=O)NC1=CC=C(C=C1)S(=O)(=O)N
+1923,CC(=O)NC1=CC=C(C=C1)S(=O)(=O)N
+1923,CC(=O)NC1=CC=C(C=C1)S(=O)(=O)N
+1923,CC(=O)NC1=CC=C(C=C1)S(=O)(=O)N
+2151,CC(C)NC(CO)C(C1=CC=CC=C1)O
+2151,CC(C)NC(CO)C(C1=CC=CC=C1)O
+2151,CC(C)NC(CO)C(C1=CC=CC=C1)O
+2151,CC(C)NC(CO)C(C1=CC=CC=C1)O
+2151,CC(C)NC(CO)C(C1=CC=CC=C1)O
+2151,CC(C)NC(CO)C(C1=CC=CC=C1)O
+2151,CC(C)NC(CO)C(C1=CC=CC=C1)O
+703,CC(CC1=CC=C(C=C1)F)NC
+703,CC(CC1=CC=C(C=C1)F)NC
+703,CC(CC1=CC=C(C=C1)F)NC
+703,CC(CC1=CC=C(C=C1)F)NC
+703,CC(CC1=CC=C(C=C1)F)NC
+720,CC(CC1=CC=C(C=C1)N)NC
+720,CC(CC1=CC=C(C=C1)N)NC
+720,CC(CC1=CC=C(C=C1)N)NC
+720,CC(CC1=CC=C(C=C1)N)NC
+720,CC(CC1=CC=C(C=C1)N)NC
+720,CC(CC1=CC=C(C=C1)N)NC
+954,C1OC2=C(O1)C=C(C(=C2)C(=O)O)N
+954,C1OC2=C(O1)C=C(C(=C2)C(=O)O)N
+954,C1OC2=C(O1)C=C(C(=C2)C(=O)O)N
+954,C1OC2=C(O1)C=C(C(=C2)C(=O)O)N
+954,C1OC2=C(O1)C=C(C(=C2)C(=O)O)N
+954,C1OC2=C(O1)C=C(C(=C2)C(=O)O)N
+ACS0393,CCOC1=CC=C(C=C1)C(=O)O
+ACS0393,CCOC1=CC=C(C=C1)C(=O)O
+BAS85763,C1=CC(=CC=C1C(=O)O)OC2=CC=C(C=C2)C(=O)O
+BAS85763,C1=CC(=CC=C1C(=O)O)OC2=CC=C(C=C2)C(=O)O
+BAS85763,C1=CC(=CC=C1C(=O)O)OC2=CC=C(C=C2)C(=O)O
+BAS85763,C1=CC(=CC=C1C(=O)O)OC2=CC=C(C=C2)C(=O)O
+BAS85763,C1=CC(=CC=C1C(=O)O)OC2=CC=C(C=C2)C(=O)O
+Benzoxazinone,C1C(=O)NC2=CC=CC=C2O1
+Benzoxazinone,C1C(=O)NC2=CC=CC=C2O1
+Benzoxazinone,C1C(=O)NC2=CC=CC=C2O1
+Benzoxazinone,C1C(=O)NC2=CC=CC=C2O1
+6-ipr-benzox.,CC(C)NCC(COC1=CC2=C(C=C1)OCC(=O)N2)O
+6-ipr-benzox.,CC(C)NCC(COC1=CC2=C(C=C1)OCC(=O)N2)O
+6-ipr-benzox.,CC(C)NCC(COC1=CC2=C(C=C1)OCC(=O)N2)O
+6-ipr-benzox.,CC(C)NCC(COC1=CC2=C(C=C1)OCC(=O)N2)O
+6-ipr-benzox.,CC(C)NCC(COC1=CC2=C(C=C1)OCC(=O)N2)O
+6-tbut-benzox.,CC(C)(C)NCC(COC1=CC2=C(C=C1)OCC(=O)N2)O
+6-tbut-benzox.,CC(C)(C)NCC(COC1=CC2=C(C=C1)OCC(=O)N2)O
+N-ipr-benzox.,CC(C)NCC(CN1C(=O)COC2=CC=CC=C21)O
+N-ipr-benzox.,CC(C)NCC(CN1C(=O)COC2=CC=CC=C21)O
+Celiprolol,CCN(CC)C(=O)NC1=CC(=C(C=C1)OCC(CNC(C)(C)C)O)C(=O)C
+nor-Fluoxetine,C1=CC=C(C=C1)C(CCN)OC2=CC=C(C=C2)C(F)(F)F
+Promethazine,CC(CN1C2=CC=CC=C2SC3=CC=CC=C31)N(C)C
+Aprindine,CCN(CC)CCCN(C1CC2=CC=CC=C2C1)C3=CC=CC=C3
+Flecainide,C1CCNC(C1)CNC(=O)C2=C(C=CC(=C2)OCC(F)(F)F)OCC(F)(F)F
+Propafenone,CCCNCC(COC1=CC=CC=C1C(=O)CCC2=CC=CC=C2)O
+Quinacainol,CC(C)(C)C1=NC2=CC=CC=C2C(=C1)C(CCC3CCNCC3)O
+Indecainide,CC(C)NCCCC1(C2=CC=CC=C2C3=CC=CC=C31)C(=O)N
+Disopyramide,CC(C)N(CCC(C1=CC=CC=C1)(C2=CC=CC=N2)C(=O)N)C(C)C
+Mexiletine,CC1=C(C(=CC=C1)C)OCC(C)N
+Atenolol,CC(C)NCC(COC1=CC=C(C=C1)CC(=O)N)O
+Thioridazine,CN1CCCCC1CCN2C3=CC=CC=C3SC4=C2C=C(C=C4)SC
+Thiethylperazine,CCSC1=CC2=C(C=C1)SC3=CC=CC=C3N2CCCN4CCN(CC4)C
+Levomepromazine,CC(CN1C2=CC=CC=C2SC3=C1C=C(C=C3)OC)CN(C)C
+Alimemazine,CC(CN1C2=CC=CC=C2SC3=CC=CC=C31)CN(C)C
+Fluphenazine,C1CN(CCN1CCCN2C3=CC=CC=C3SC4=C2C=C(C=C4)C(F)(F)F)CCO
+Sulforidazine,CN1CCCCC1CCN2C3=CC=CC=C3SC4=C2C=C(C=C4)S(=O)(=O)C
+Acetic acid,CC(=O)O
+Acetic acid,CC(=O)O
+Acetic acid,CC(=O)O
+Acetic acid,CC(=O)O
+Acetic acid,CC(=O)O
+Benzimidazole,C1=CC=C2C(=C1)NC=N2
+Benzimidazole,C1=CC=C2C(=C1)NC=N2
+Benzimidazole,C1=CC=C2C(=C1)NC=N2
+Benzimidazole,C1=CC=C2C(=C1)NC=N2
+Benzimidazole,C1=CC=C2C(=C1)NC=N2
+Benzimidazole,C1=CC=C2C(=C1)NC=N2
+Benzimidazole,C1=CC=C2C(=C1)NC=N2
+Benzimidazole,C1=CC=C2C(=C1)NC=N2
+Benzoic acid,C1=CC=C(C=C1)C(=O)O
+Benzoic acid,C1=CC=C(C=C1)C(=O)O
+Benzoic acid,C1=CC=C(C=C1)C(=O)O
+Benzoic acid,C1=CC=C(C=C1)C(=O)O
+Benzoic acid,C1=CC=C(C=C1)C(=O)O
+Imidazole,C1=CN=CN1
+Imidazole,C1=CN=CN1
+Imidazole,C1=CN=CN1
+Imidazole,C1=CN=CN1
+Imidazole,C1=CN=CN1
+Imidazole,C1=CN=CN1
+Imidazole,C1=CN=CN1
+Imidazole,C1=CN=CN1
+Isophthalic acid,C1=CC(=CC(=C1)C(=O)O)C(=O)O
+Isophthalic acid,C1=CC(=CC(=C1)C(=O)O)C(=O)O
+Isophthalic acid,C1=CC(=CC(=C1)C(=O)O)C(=O)O
+Isophthalic acid,C1=CC(=CC(=C1)C(=O)O)C(=O)O
+Isophthalic acid,C1=CC(=CC(=C1)C(=O)O)C(=O)O
+o-phthalic acid,C1=CC=C(C(=C1)C(=O)O)C(=O)O
+o-phthalic acid,C1=CC=C(C(=C1)C(=O)O)C(=O)O
+o-phthalic acid,C1=CC=C(C(=C1)C(=O)O)C(=O)O
+o-phthalic acid,C1=CC=C(C(=C1)C(=O)O)C(=O)O
+o-phthalic acid,C1=CC=C(C(=C1)C(=O)O)C(=O)O
+o-phthalic acid,C1=CC=C(C(=C1)C(=O)O)C(=O)O
+Oxalic acid,C(=O)(C(=O)O)O
+Oxalic acid,C(=O)(C(=O)O)O
+Oxalic acid,C(=O)(C(=O)O)O
+Oxalic acid,C(=O)(C(=O)O)O
+Oxalic acid,C(=O)(C(=O)O)O
+Salicylic acid,C1=CC=C(C(=C1)C(=O)O)O
+Salicylic acid,C1=CC=C(C(=C1)C(=O)O)O
+Salicylic acid,C1=CC=C(C(=C1)C(=O)O)O
+Salicylic acid,C1=CC=C(C(=C1)C(=O)O)O
+Salicylic acid,C1=CC=C(C(=C1)C(=O)O)O
+Theophylline,CN1C2=C(C(=O)N(C1=O)C)NC=N2
+Theophylline,CN1C2=C(C(=O)N(C1=O)C)NC=N2
+Theophylline,CN1C2=C(C(=O)N(C1=O)C)NC=N2
+Theophylline,CN1C2=C(C(=O)N(C1=O)C)NC=N2
+Theophylline,CN1C2=C(C(=O)N(C1=O)C)NC=N2
+Theophylline,CN1C2=C(C(=O)N(C1=O)C)NC=N2
+Theophylline,CN1C2=C(C(=O)N(C1=O)C)NC=N2
+Tyrosine,C1=CC(=CC=C1CC(C(=O)O)N)O
+Tyrosine,C1=CC(=CC=C1CC(C(=O)O)N)O
+Tyrosine,C1=CC(=CC=C1CC(C(=O)O)N)O
+Tyrosine,C1=CC(=CC=C1CC(C(=O)O)N)O
+Tyrosine,C1=CC(=CC=C1CC(C(=O)O)N)O
+Tyrosine,C1=CC(=CC=C1CC(C(=O)O)N)O
+Tyrosine,C1=CC(=CC=C1CC(C(=O)O)N)O
+Tyrosine,C1=CC(=CC=C1CC(C(=O)O)N)O
+Tyrosine,C1=CC(=CC=C1CC(C(=O)O)N)O
+Tyrosine,C1=CC(=CC=C1CC(C(=O)O)N)O
+Histidine,C1=C(NC=N1)CC(C(=O)O)N
+Histidine,C1=C(NC=N1)CC(C(=O)O)N
+Histidine,C1=C(NC=N1)CC(C(=O)O)N
+Histidine,C1=C(NC=N1)CC(C(=O)O)N
+Histidine,C1=C(NC=N1)CC(C(=O)O)N
+Histidine,C1=C(NC=N1)CC(C(=O)O)N
+Histidine,C1=C(NC=N1)CC(C(=O)O)N
+Histidine,C1=C(NC=N1)CC(C(=O)O)N

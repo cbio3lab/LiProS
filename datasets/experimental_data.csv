@@ -1,0 +1,298 @@
+﻿Name,SMILES,type,logPN,ref logPN,method logPN,pKa,ref pKa,logPI,ref logPI,method logPI,pH,logD,ref logD,method logD
+2.4-Dichlorophenoxyacetic acid,C1=CC(=C(C=C1Cl)Cl)OCC(=O)O,Acid,2.78,"1,24",Potentiometric,2.73,1,-0.87,"1,24",Potentiometric,7.40,7.40,"1,24",Potentiometric
+4-Phenylbutylamine,C1=CC=C(C=C1)CCCCN,Base,2.39,"1,16",Potentiometric,10.43,"1,3",-0.45,"1,16",Potentiometric,7.40,-0.62,"1,16",Potentiometric
+5-Phenylvaleric acid,C1=CC=C(C=C1)CCCCC(=O)O,Acid,2.92,"1,18,16",Potentiometric,4.59,"1,18",-0.95,"1,18,16",Potentiometric,7.40,0.5,"1,16",Potentiometric
+6-Acetylmorphine,CC(=O)OC1C=CC2C3CC4=C5C2(C1OC5=C(C=C4)O)CCN3C,Base,1.55,"1,24",Potentiometric,9.55,1,-0.42,"1,24",Potentiometric,7.40,0.61,"1,24",Potentiometric
+Acebutolol,CCCC(=O)NC1=CC(=C(C=C1)OCC(CNC(C)C)O)C(=O)C,Base,1.82,31,Counter-current chromatography,9.52,"1,6",-2.08,31,Counter-current chromatography,7.40,-0.09,"1,25",Potentiometric
+Alprenolol,CC(C)NCC(COC1=CC=CC=C1CC=C)O,Base,3.14,31,Counter-current chromatography,9.62,"1,6",-1.39,31,Counter-current chromatography,7.40,0.86,"1,25",Potentiometric
+Amiodarone,CCCCC1=C(C2=CC=CC=C2O1)C(=O)C3=CC(=C(C(=C3)I)OCCN(CC)CC)I,Base,7.8,"1,26",Potentiometric,9.06,1,4.02,"1,26",Potentiometric,7.40,6.1,"1,26",Potentiometric
+Amitriptyline,CN(C)CCC=C1C2=CC=CC=C2CCC3=CC=CC=C31,Base,4.62,1,Potentiometric,9.4,1,0.16,1,Potentiometric,7.40,2.8,1,Potentiometric
+Amlodipine,CCOC(=O)C1=C(NC(=C(C1C2=CC=CC=C2Cl)C(=O)OC)C)COCCN,Base,3.74,1,Potentiometric,9.4,"1,17",1.09,1,Potentiometric,7.40,2.25,1,Potentiometric
+Atropine,CN1C2CCC1CC(C2)OC(=O)C(CO)C3=CC=CC=C3,Base,1.89,1,Potentiometric,9.7,1,-1.99,1,Potentiometric,7.40,-0.66,1,Potentiometric
+Buprenorphine,CC(C)(C)C(C)(C1CC23CCC1(C4C25CCN(C3CC6=C5C(=C(C=C6)O)O4)CC7CC7)OC)O,Base,4.82,"1,24",Potentiometric,8.31,1,0.09,"1,24",Potentiometric,7.40,3.75,"1,24",Potentiometric
+Carazolol,CC(C)NCC(COC1=CC=CC2=C1C3=CC=CC=C3N2)O,Base,3.73,"1,26",Potentiometric,9.67,"1,20",0.77,"1,26",Potentiometric,7.40,1.58,"1,26",Potentiometric
+Carvedilol,COC1=CC=CC=C1OCCNCC(COC2=CC=CC3=C2C4=CC=CC=C4N3)O,Base,4.14,"1,26",Potentiometric,7.8,"1,11",1.95,"1,26",Potentiometric,7.40,3.53,"1,26",Potentiometric
+Chlorpromazine,CN(C)CCCN1C2=CC=CC=C2SC3=C1C=C(C=C3)Cl,Base,5.4,"1,24",Potentiometric,9.3,"1,17",1.67,"1,24",Potentiometric,7.40,3.45,"1,24",Potentiometric
+Ciprofloxacin,C1CC1N2C=C(C(=O)C3=CC(=C(C=C32)N4CCNCC4)F)C(=O)O,Acid,-1.08,1,Potentiometric,6.09,"1,7",-1.69,1,Potentiometric,7.40,-1.12,1,Potentiometric
+Debrisoquine,C1CN(CC2=CC=CC=C21)C(=N)N,Base,0.85,"1,24",Potentiometric,11.9,1,-0.87,"1,24",Potentiometric,7.40,-0.87,"1,24",Potentiometric
+Deprenyl,CC(CC1=CC=CC=C1)N(C)CC#C,Base,2.9,"1,26",Potentiometric,7.47,"1,6",-0.95,"1,26",Potentiometric,7.40,2.49,"1,26",Potentiometric
+Desipramine,CNCCCN1C2=CC=CC=C2CCC3=CC=CC=C31,Base,3.79,"1,27",RP-HPLC,10.42,"1,6",0.34,"1,27",RP-HPLC,7.40,1.38,"1,27",RP-HPLC
+Diclofenac,C1=CC=C(C(=C1)CC(=O)O)NC2=C(C=CC=C2Cl)Cl,Acid,4.51,"1,2,18,16",Shake flask,4.15,"1,18,19",0.68,"1,18",Potentiometric,7.40,1.3,"1,16",Potentiometric
+Diphenhydramine,CN(C)CCOC(C1=CC=CC=C1)C2=CC=CC=C2,Base,3.18,"1,27",RP-HPLC,8.98,"1,6",-0.52,"1,27",RP-HPLC,7.40,1.39,"1,27",RP-HPLC
+Ephedrine,CC(C(C1=CC=CC=C1)O)NC,Base,1.13,"1,26",Potentiometric,10.25,1,-0.96,"1,26",Potentiometric,7.40,-0.77,"1,26",Potentiometric
+Ergonovine,CC(CO)NC(=O)C1CN(C2CC3=CNC4=CC=CC(=C34)C2=C1)C,Base,1.67,1,Potentiometric,6.8,1,-0.51,1,Potentiometric,7.40,1.54,1,Potentiometric
+Erythromycin,CCC1C(C(C(C(=O)C(CC(C(C(C(C(C(=O)O1)C)OC2CC(C(C(O2)C)O)(C)OC)C)OC3C(C(CC(O3)C)N(C)C)O)(C)O)C)C)O)(C)O,Base,2.54,1,Potentiometric,8.88,"1,7",-0.43,1,Potentiometric,7.40,1.14,1,Potentiometric
+Ethinylestradiol,CC12CCC3C(C1CCC2(C#C)O)CCC4=C3C=CC(=C4)O,Acid,3.42,1,Potentiometric,10.2,1,1.29,1,Potentiometric,7.40,3.42,1,Potentiometric
+Famotidine,C1=C(N=C(S1)N=C(N)N)CSCCC(=NS(=O)(=O)N)N,Acid,-0.81,1,Potentiometric,6.76,"1,9,12",-0.54,1,Potentiometric,7.40,-0.62,1,Potentiometric
+Flufenamic acid,C1=CC=C(C(=C1)C(=O)O)NC2=CC=CC(=C2)C(F)(F)F,Acid,5.25,2,Shake flask,3.97,"1,6,14",1.77,1,Potentiometric,7.40,2.45,"1,14",Potentiometric
+Fluvastatin,CC(C)N1C2=CC=CC=C2C(=C1C=CC(CC(CC(=O)O)O)O)C3=CC=C(C=C3)F,Acid,4.17,"1,28",Potentiometric,4.5,1,1.12,"1,28",Potentiometric,7.40,1.14,"1,28",Potentiometric
+Haloperidol,C1CN(CCC1(C2=CC=C(C=C2)Cl)O)CCCC(=O)C3=CC=C(C=C3)F,Base,3.67,"1,27",RP-HPLC,8.66,1,1.32,"1,27",RP-HPLC,7.40,3.18,"1,27",RP-HPLC
+Hydrochlorothiazide,C1NC2=CC(=C(C=C2S(=O)(=O)N1)S(=O)(=O)N)Cl,Acid,-0.03,1,Potentiometric,7.9,1,-1.59,1,Potentiometric,7.40,-0.18,1,Potentiometric
+Ibuprofen,CC(C)CC1=CC=C(C=C1)C(C)C(=O)O,Acid,4.13,"1,16",Potentiometric,4.91,"1,6,16",-0.41,"1,16",Potentiometric,7.40,1.44,1,
+Imipramine,CN(C)CCCN1C2=CC=CC=C2CCC3=CC=CC=C31,Base,4.39,"1,27",RP-HPLC,9.4,"1,6",0.47,"1,27",RP-HPLC,7.40,2.17,"1,27",RP-HPLC
+Indomethacin,CC1=C(C2=C(N1C(=O)C3=CC=C(C=C3)Cl)C=CC(=C2)OC)CC(=O)O,Acid,4.27,2,Shake flask,4.5,"1,6",-2,1,Potentiometric,7.40,0.68,1,Potentiometric
+Ketoprofen,CC(C1=CC(=CC=C1)C(=O)C2=CC=CC=C2)C(=O)O,Acid,3.12,2,Shake flask,4.45,1,-0.95,1,Potentiometric,7.40,-0.11,1,Potentiometric
+Lidocaine,CCN(CC)CC(=O)NC1=C(C=CC=C1C)C,Base,2.44,"1,18,23",Ultrasonic agitation,7.96,"1,4,6,18",-0.52,"1,18",Potentiometric,7.40,1.72,"1,23",Ultrasonic agitation
+Meloxicam,CC1=CN=C(S1)NC(=O)C2=C(C3=CC=CC=C3S(=O)(=O)N2C)O,Acid,3.01,29,Potentiometric,4.08,"1,26",-0.03,"1,26",Potentiometric,7.40,0.12,1,Potentiometric
+Metipranolol,CC1=CC(=C(C(=C1OC(=O)C)C)C)OCC(CNC(C)C)O,Base,2.59,31,Counter-current chromatography,9.18,1,-2.13,31,Counter-current chromatography,7.40,0.55,"1,26",Potentiometric
+Metoprolol,CC(C)NCC(COC1=CC=C(C=C1)CCOC)O,Base,1.88,31,Counter-current chromatography,9.67,"1,6",-2.08,31,Counter-current chromatography,7.40,-0.24,"1,26",Potentiometric
+Morphine sulfate,CN1CCC23C4C1CC5=C2C(=C(C=C5)O)OC3C(C=C4)O,Base,0.89,"1,26",Potentiometric,8.21,"1,6",-2.05,"1,26",Potentiometric,7.40,-0.06,"1,26",Potentiometric
+Naproxen,CC(C1=CC2=C(C=C1)C=C(C=C2)OC)C(=O)O,Acid,3.24,1,Potentiometric,4.15,"1,6",0.2,2,Shake flask,7.40,0.09,1,Potentiometric
+Nortriptyline,CNCCC=C1C2=CC=CC=C2CCC3=CC=CC=C31,Base,4.39,1,Potentiometric,9.7,1,1.17,1,Potentiometric,7.40,1.79,1,Potentiometric
+Ofloxacin,CC1COC2=C3N1C=C(C(=O)C3=CC(=C2N4CCN(CC4)C)F)C(=O)O,Acid,-0.39,30,Shake flask,6.05,1,-2.1,30,Shake flask,7.40,-0.34,"1,24",Potentiometric
+Oxprenolol,CC(C)NCC(COC1=CC=CC=C1OCC=C)O,Base,2.3,31,Counter-current chromatography,9.58,"1,21",-1.82,31,Counter-current chromatography,7.40,0.18,"1,25",Potentiometric
+Papaverine,COC1=C(C=C(C=C1)CC2=NC=CC3=CC(=C(C=C32)OC)OC)OC,Base,2.95,"1,26",Potentiometric,8.07,"1,3,6",-0.22,"1,26",Potentiometric,7.40,2.89,"1,26",Potentiometric
+Penbutolol,CC(C)(C)NCC(COC1=CC=CC=C1C2CCCC2)O,Base,3.61,31,Counter-current chromatography,9.3,1,-0.29,31,Counter-current chromatography,7.40,2.06,"1,26",Potentiometric
+p-F-Deprenyl,CC(CC1=CC=C(C=C1)F)N(C)CC#C,Base,3.06,"1,26",Potentiometric,7.42,1,-0.58,"1,26",Potentiometric,7.40,2.7,"1,26",Potentiometric
+Phenazopyridine,C1=CC=C(C=C1)N=NC2=C(N=C(C=C2)N)N,Base,3.31,1,Potentiometric,5.05,1,1.41,1,Potentiometric,7.40,3.31,1,Potentiometric
+Pindolol,CC(C)NCC(COC1=CC=CC2=C1C=CN2)O,Base,1.89,31,Counter-current chromatography,9.25,"1,6",-2,31,Counter-current chromatography,7.40,-0.36,"1,26",Potentiometric
+Primaquine,CC(CCCN)NC1=C2C(=CC(=C1)OC)C=CC=N2,Base,3,1,Potentiometric,10.03,1,1.14,1,Potentiometric,7.40,1.17,1,Potentiometric
+Probenecid,CCCN(CCC)S(=O)(=O)C1=CC=C(C=C1)C(=O)O,Acid,3.7,1,Potentiometric,3.4,1,-0.52,1,Potentiometric,7.40,-0.23,1,Potentiometric
+Procaine,CCN(CC)CCOC(=O)C1=CC=C(C=C1)N,Base,2.14,"1,16",Potentiometric,8.05,"1,6,16",-0.81,"1,16",Potentiometric,7.40,0.43,1,Potentiometric
+Propranolol,CC(C)NCC(COC1=CC=CC2=CC=CC=C21)O,Base,3.41,31,Counter-current chromatography,9.42,"1,3,6,13,19",-1.1,31,Counter-current chromatography,7.40,1.41,"1,13.26",Potentiometric
+Prostaglandin E1,CCCCCC(C=CC1C(CC(=O)C1CCCCCCC(=O)O)O)O,Acid,3.2,"1,24",Potentiometric,4.95,1,-0.33,"1,24",Potentiometric,7.40,0.78,"1,24",Potentiometric
+Prostaglandin E2,CCCCCC(C=CC1C(CC(=O)C1CC=CCCCC(=O)O)O)O,Acid,2.9,"1,24",Potentiometric,4.9,"1,5",-0.54,"1,24",Potentiometric,7.40,0.41,"1,24",Potentiometric
+Pyridoxine,CC1=NC=C(C(=C1O)CO)CO,Base,-0.5,"1,24",Potentiometric,5.1,"1,8",-1.33,"1,24",Potentiometric,7.40,-0.51,"1,24",Potentiometric
+Quinine,COC1=CC2=C(C=CN=C2C=C1)C(C3CC4CCN3CC4C=C)O,Base,3.5,"1,26",Potentiometric,5.07,"1,6",0.88,"1,26",Potentiometric,7.40,2.19,"1,26",Potentiometric
+Roxithromycin,CCC1C(C(C(C(=NOCOCCOC)C(CC(C(C(C(C(C(=O)O1)C)OC2CC(C(C(O2)C)O)(C)OC)C)OC3C(C(CC(O3)C)N(C)C)O)(C)O)C)C)O)(C)O,Base,3.79,"1,26",Potentiometric,9.2,"1,7,14",1.02,"1,26",Potentiometric,7.40,1.92,"1,26",Potentiometric
+Serotonin,C1=CC2=C(C=C1O)C(=CN2)CCN,Base,0.53,1,Potentiometric,9.97,"1,3",-1.66,1,Potentiometric,7.40,-2.17,1,Potentiometric
+Sotalol,CC(C)NCC(C1=CC=C(C=C1)NS(=O)(=O)C)O,Base,-0.77,31,Counter-current chromatography,8.29,"1,6,19",-2.92,31,Counter-current chromatography,7.40,-1.19,"1,26",Potentiometric
+Sulfasalazine,C1=CC=NC(=C1)NS(=O)(=O)C2=CC=C(C=C2)N=NC3=CC(=C(C=C3)O)C(=O)O,Acid,3.61,1,Potentiometric,2.53,"1,6",0.14,1,Potentiometric,7.40,0.08,1,Potentiometric
+Tamoxifen,CCC(=C(C1=CC=CC=C1)C2=CC=C(C=C2)OCCN(C)C)C3=CC=CC=C3,Base,5.26,1,Potentiometric,8.48,1,2.96,1,Potentiometric,7.40,4.15,1,Potentiometric
+Terfenadine,CC(C)(C)C1=CC=C(C=C1)C(CCCN2CCC(CC2)C(C3=CC=CC=C3)(C4=CC=CC=C4)O)O,Base,5.52,1,Potentiometric,8.91,1,1.77,1,Potentiometric,7.40,3.61,1,Potentiometric
+Timolol,CC(C)(C)NCC(COC1=NSN=C1N2CCOCC2)O,Base,1.98,31,Counter-current chromatography,9.34,"1,20",-1.84,31,Counter-current chromatography,7.40,0.03,"1,25",Potentiometric
+Trimethoprim,COC1=CC(=CC(=C1OC)OC)CC2=CN=C(N=C2N)N,Acid,0.83,1,Potentiometric,7.12,"1,6,7,14",-0.88,1,Potentiometric,7.40,0.63,1,Potentiometric
+Trovafloxacin,C1C2C(C2N)CN1C3=C(C=C4C(=O)C(=CN(C4=N3)C5=C(C=C(C=C5)F)F)C(=O)O)F,Acid,0.15,1,Potentiometric,5.87,1,-0.65,1,Potentiometric,7.40,0.07,1,Potentiometric
+Verapamil,CC(C)C(CCCN(C)CCC1=CC(=C(C=C1)OC)OC)(C#N)C2=CC(=C(C=C2)OC)OC,Base,4.33,1,Potentiometric,8.81,"1,15",0.71,1,Potentiometric,7.40,2.51,1,Potentiometric
+Warfarin,CC(=O)CC(C1=CC=CC=C1)C2=C(C3=CC=CC=C3OC2=O)O,Acid,3.54,"1,16",Potentiometric,4.94,"1,16",0.04,"1,16",Potentiometric,7.40,1.12,1,Potentiometric
+Trimethoprim,COC1=CC(=CC(=C1OC)OC)CC2=CN=C(N=C2N)N,Base,0.91,2,Shake flask,7.12,,-0.92,2,Shake flask,5.50,-0.92,2,Shake flask
+Trimethoprim,COC1=CC(=CC(=C1OC)OC)CC2=CN=C(N=C2N)N,Base,0.91,2,Shake flask,7.12,,-0.92,2,Shake flask,6.20,-0.4,2,Shake flask
+Trimethoprim,COC1=CC(=CC(=C1OC)OC)CC2=CN=C(N=C2N)N,Base,0.91,2,Shake flask,7.12,,-0.92,2,Shake flask,8.50,0.83,2,Shake flask
+Salicylic acid,C1=CC=C(C(=C1)C(=O)O)O,Acid,2.26,2,Shake flask,2.97,6,-0.99,2,Shake flask,1.00,2.33,2,Shake flask
+Salicylic acid,C1=CC=C(C(=C1)C(=O)O)O,Acid,2.26,2,Shake flask,2.97,6,-0.99,2,Shake flask,2.00,2.27,2,Shake flask
+Salicylic acid,C1=CC=C(C(=C1)C(=O)O)O,Acid,2.26,2,Shake flask,2.97,6,-0.99,2,Shake flask,3.40,1.55,2,Shake flask
+Salicylic acid,C1=CC=C(C(=C1)C(=O)O)O,Acid,2.26,2,Shake flask,2.97,6,-0.99,2,Shake flask,4.50,0.98,2,Shake flask
+Salicylic acid,C1=CC=C(C(=C1)C(=O)O)O,Acid,2.26,2,Shake flask,2.97,6,-0.99,2,Shake flask,5.50,-0.22,2,Shake flask
+Salicylic acid,C1=CC=C(C(=C1)C(=O)O)O,Acid,2.26,2,Shake flask,2.97,6,-0.99,2,Shake flask,6.70,-0.86,2,Shake flask
+Salicylic acid,C1=CC=C(C(=C1)C(=O)O)O,Acid,2.26,2,Shake flask,2.97,6,-0.99,2,Shake flask,7.40,-0.9,2,Shake flask
+Salicylic acid,C1=CC=C(C(=C1)C(=O)O)O,Acid,2.26,2,Shake flask,2.97,6,-0.99,2,Shake flask,8.20,-0.98,2,Shake flask
+Salicylic acid,C1=CC=C(C(=C1)C(=O)O)O,Acid,2.26,2,Shake flask,2.97,6,-0.99,2,Shake flask,9.20,-1.05,2,Shake flask
+Diflunisal,C1=CC(=C(C=C1C2=C(C=C(C=C2)F)F)C(=O)O)O,Acid,4.44,2,Shake flask,3.3,pubChem,0.5,2,Shake flask,1.00,4.5,2,Shake flask
+Diflunisal,C1=CC(=C(C=C1C2=C(C=C(C=C2)F)F)C(=O)O)O,Acid,4.44,2,Shake flask,3.3,pubChem,0.5,2,Shake flask,2.00,4.44,2,Shake flask
+Diflunisal,C1=CC(=C(C=C1C2=C(C=C(C=C2)F)F)C(=O)O)O,Acid,4.44,2,Shake flask,3.3,pubChem,0.5,2,Shake flask,3.40,3.46,2,Shake flask
+Diflunisal,C1=CC(=C(C=C1C2=C(C=C(C=C2)F)F)C(=O)O)O,Acid,4.44,2,Shake flask,3.3,pubChem,0.5,2,Shake flask,4.50,2.87,2,Shake flask
+Diflunisal,C1=CC(=C(C=C1C2=C(C=C(C=C2)F)F)C(=O)O)O,Acid,4.44,2,Shake flask,3.3,pubChem,0.5,2,Shake flask,5.50,1.84,2,Shake flask
+Diflunisal,C1=CC(=C(C=C1C2=C(C=C(C=C2)F)F)C(=O)O)O,Acid,4.44,2,Shake flask,3.3,pubChem,0.5,2,Shake flask,6.70,0.82,2,Shake flask
+Diflunisal,C1=CC(=C(C=C1C2=C(C=C(C=C2)F)F)C(=O)O)O,Acid,4.44,2,Shake flask,3.3,pubChem,0.5,2,Shake flask,7.40,0.76,2,Shake flask
+Diflunisal,C1=CC(=C(C=C1C2=C(C=C(C=C2)F)F)C(=O)O)O,Acid,4.44,2,Shake flask,3.3,pubChem,0.5,2,Shake flask,8.20,0.55,2,Shake flask
+Diflunisal,C1=CC(=C(C=C1C2=C(C=C(C=C2)F)F)C(=O)O)O,Acid,4.44,2,Shake flask,3.3,pubChem,0.5,2,Shake flask,9.20,0.5,2,Shake flask
+Tolmetin,CC1=CC=C(C=C1)C(=O)C2=CC=C(N2C)CC(=O)O,Acid,2.79,2,Shake flask,3.5,pubChem,-1.05,2,Shake flask,1.00,2.83,2,Shake flask
+Tolmetin,CC1=CC=C(C=C1)C(=O)C2=CC=C(N2C)CC(=O)O,Acid,2.79,2,Shake flask,3.5,pubChem,-1.05,2,Shake flask,2.00,2.79,2,Shake flask
+Tolmetin,CC1=CC=C(C=C1)C(=O)C2=CC=C(N2C)CC(=O)O,Acid,2.79,2,Shake flask,3.5,pubChem,-1.05,2,Shake flask,3.40,2.42,2,Shake flask
+Tolmetin,CC1=CC=C(C=C1)C(=O)C2=CC=C(N2C)CC(=O)O,Acid,2.79,2,Shake flask,3.5,pubChem,-1.05,2,Shake flask,4.50,1.96,2,Shake flask
+Tolmetin,CC1=CC=C(C=C1)C(=O)C2=CC=C(N2C)CC(=O)O,Acid,2.79,2,Shake flask,3.5,pubChem,-1.05,2,Shake flask,5.50,1.07,2,Shake flask
+Tolmetin,CC1=CC=C(C=C1)C(=O)C2=CC=C(N2C)CC(=O)O,Acid,2.79,2,Shake flask,3.5,pubChem,-1.05,2,Shake flask,6.70,-0.17,2,Shake flask
+Tolmetin,CC1=CC=C(C=C1)C(=O)C2=CC=C(N2C)CC(=O)O,Acid,2.79,2,Shake flask,3.5,pubChem,-1.05,2,Shake flask,7.40,-0.98,2,Shake flask
+Tolmetin,CC1=CC=C(C=C1)C(=O)C2=CC=C(N2C)CC(=O)O,Acid,2.79,2,Shake flask,3.5,pubChem,-1.05,2,Shake flask,8.20,-1.03,2,Shake flask
+Tolmetin,CC1=CC=C(C=C1)C(=O)C2=CC=C(N2C)CC(=O)O,Acid,2.79,2,Shake flask,3.5,pubChem,-1.05,2,Shake flask,9.20,-1.05,2,Shake flask
+Naproxen,CC(C1=CC2=C(C=C1)C=C(C=C2)OC)C(=O)O,Acid,3.18,2,Shake flask,4.15,"1,6",0.2,2,Shake flask,1.00,3.35,2,Shake flask
+Naproxen,CC(C1=CC2=C(C=C1)C=C(C=C2)OC)C(=O)O,Acid,3.18,2,Shake flask,4.15,"1,6",0.2,2,Shake flask,2.00,3.34,2,Shake flask
+Naproxen,CC(C1=CC2=C(C=C1)C=C(C=C2)OC)C(=O)O,Acid,3.18,2,Shake flask,4.15,"1,6",0.2,2,Shake flask,3.40,3.05,2,Shake flask
+Naproxen,CC(C1=CC2=C(C=C1)C=C(C=C2)OC)C(=O)O,Acid,3.18,2,Shake flask,4.15,"1,6",0.2,2,Shake flask,4.50,2.72,2,Shake flask
+Naproxen,CC(C1=CC2=C(C=C1)C=C(C=C2)OC)C(=O)O,Acid,3.18,2,Shake flask,4.15,"1,6",0.2,2,Shake flask,5.50,2.02,2,Shake flask
+Naproxen,CC(C1=CC2=C(C=C1)C=C(C=C2)OC)C(=O)O,Acid,3.18,2,Shake flask,4.15,"1,6",0.2,2,Shake flask,6.70,0.79,2,Shake flask
+Naproxen,CC(C1=CC2=C(C=C1)C=C(C=C2)OC)C(=O)O,Acid,3.18,2,Shake flask,4.15,"1,6",0.2,2,Shake flask,7.40,0.33,2,Shake flask
+Naproxen,CC(C1=CC2=C(C=C1)C=C(C=C2)OC)C(=O)O,Acid,3.18,2,Shake flask,4.15,"1,6",0.2,2,Shake flask,8.20,0.27,2,Shake flask
+Naproxen,CC(C1=CC2=C(C=C1)C=C(C=C2)OC)C(=O)O,Acid,3.18,2,Shake flask,4.15,"1,6",0.2,2,Shake flask,9.20,0.25,2,Shake flask
+Mefenamic acid,CC1=C(C(=CC=C1)NC2=CC=CC=C2C(=O)O)C,Acid,5.12,2,Shake flask,4.2,pubChem,0.43,2,Shake flask,2.00,4.41,2,Shake flask
+Mefenamic acid,CC1=C(C(=CC=C1)NC2=CC=CC=C2C(=O)O)C,Acid,5.12,2,Shake flask,4.2,pubChem,0.43,2,Shake flask,3.40,4.29,2,Shake flask
+Mefenamic acid,CC1=C(C(=CC=C1)NC2=CC=CC=C2C(=O)O)C,Acid,5.12,2,Shake flask,4.2,pubChem,0.43,2,Shake flask,4.50,3.72,2,Shake flask
+Mefenamic acid,CC1=C(C(=CC=C1)NC2=CC=CC=C2C(=O)O)C,Acid,5.12,2,Shake flask,4.2,pubChem,0.43,2,Shake flask,5.50,2.81,2,Shake flask
+Mefenamic acid,CC1=C(C(=CC=C1)NC2=CC=CC=C2C(=O)O)C,Acid,5.12,2,Shake flask,4.2,pubChem,0.43,2,Shake flask,6.70,1.64,2,Shake flask
+Mefenamic acid,CC1=C(C(=CC=C1)NC2=CC=CC=C2C(=O)O)C,Acid,5.12,2,Shake flask,4.2,pubChem,0.43,2,Shake flask,7.40,1.03,2,Shake flask
+Mefenamic acid,CC1=C(C(=CC=C1)NC2=CC=CC=C2C(=O)O)C,Acid,5.12,2,Shake flask,4.2,pubChem,0.43,2,Shake flask,8.20,0.59,2,Shake flask
+Mefenamic acid,CC1=C(C(=CC=C1)NC2=CC=CC=C2C(=O)O)C,Acid,5.12,2,Shake flask,4.2,pubChem,0.43,2,Shake flask,9.20,0.43,2,Shake flask
+Diclofenac,C1=CC=C(C(=C1)CC(=O)O)NC2=C(C=CC=C2Cl)Cl,Acid,4.51,2,Shake flask,4.15,19,0.75,2,Shake flask,1.00,4.43,2,Shake flask
+Diclofenac,C1=CC=C(C(=C1)CC(=O)O)NC2=C(C=CC=C2Cl)Cl,Acid,4.51,2,Shake flask,4.15,19,0.75,2,Shake flask,2.00,4.4,2,Shake flask
+Diclofenac,C1=CC=C(C(=C1)CC(=O)O)NC2=C(C=CC=C2Cl)Cl,Acid,4.51,2,Shake flask,4.15,19,0.75,2,Shake flask,3.40,4.05,2,Shake flask
+Diclofenac,C1=CC=C(C(=C1)CC(=O)O)NC2=C(C=CC=C2Cl)Cl,Acid,4.51,2,Shake flask,4.15,19,0.75,2,Shake flask,4.50,3.71,2,Shake flask
+Diclofenac,C1=CC=C(C(=C1)CC(=O)O)NC2=C(C=CC=C2Cl)Cl,Acid,4.51,2,Shake flask,4.15,19,0.75,2,Shake flask,5.50,2.98,2,Shake flask
+Diclofenac,C1=CC=C(C(=C1)CC(=O)O)NC2=C(C=CC=C2Cl)Cl,Acid,4.51,2,Shake flask,4.15,19,0.75,2,Shake flask,6.70,1.49,2,Shake flask
+Diclofenac,C1=CC=C(C(=C1)CC(=O)O)NC2=C(C=CC=C2Cl)Cl,Acid,4.51,2,Shake flask,4.15,19,0.75,2,Shake flask,7.40,1.22,2,Shake flask
+Diclofenac,C1=CC=C(C(=C1)CC(=O)O)NC2=C(C=CC=C2Cl)Cl,Acid,4.51,2,Shake flask,4.15,19,0.75,2,Shake flask,8.20,0.81,2,Shake flask
+Diclofenac,C1=CC=C(C(=C1)CC(=O)O)NC2=C(C=CC=C2Cl)Cl,Acid,4.51,2,Shake flask,4.15,19,0.75,2,Shake flask,9.20,0.77,2,Shake flask
+Sulindac,CC1=C(C2=C(C1=CC3=CC=C(C=C3)S(=O)C)C=CC(=C2)F)CC(=O)O,Acid,3.42,2,Shake flask,4.7,20,-1.16,2,Shake flask,1.00,3.5,2,Shake flask
+Sulindac,CC1=C(C2=C(C1=CC3=CC=C(C=C3)S(=O)C)C=CC(=C2)F)CC(=O)O,Acid,3.42,2,Shake flask,4.7,20,-1.16,2,Shake flask,2.00,3.42,2,Shake flask
+Sulindac,CC1=C(C2=C(C1=CC3=CC=C(C=C3)S(=O)C)C=CC(=C2)F)CC(=O)O,Acid,3.42,2,Shake flask,4.7,20,-1.16,2,Shake flask,3.40,2.85,2,Shake flask
+Sulindac,CC1=C(C2=C(C1=CC3=CC=C(C=C3)S(=O)C)C=CC(=C2)F)CC(=O)O,Acid,3.42,2,Shake flask,4.7,20,-1.16,2,Shake flask,4.50,2.75,2,Shake flask
+Sulindac,CC1=C(C2=C(C1=CC3=CC=C(C=C3)S(=O)C)C=CC(=C2)F)CC(=O)O,Acid,3.42,2,Shake flask,4.7,20,-1.16,2,Shake flask,5.50,1.89,2,Shake flask
+Sulindac,CC1=C(C2=C(C1=CC3=CC=C(C=C3)S(=O)C)C=CC(=C2)F)CC(=O)O,Acid,3.42,2,Shake flask,4.7,20,-1.16,2,Shake flask,6.70,0.69,2,Shake flask
+Sulindac,CC1=C(C2=C(C1=CC3=CC=C(C=C3)S(=O)C)C=CC(=C2)F)CC(=O)O,Acid,3.42,2,Shake flask,4.7,20,-1.16,2,Shake flask,7.40,-0.6,2,Shake flask
+Sulindac,CC1=C(C2=C(C1=CC3=CC=C(C=C3)S(=O)C)C=CC(=C2)F)CC(=O)O,Acid,3.42,2,Shake flask,4.7,20,-1.16,2,Shake flask,8.20,-0.66,2,Shake flask
+Indomethacin,CC1=C(C2=C(N1C(=O)C3=CC=C(C=C3)Cl)C=CC(=C2)OC)CC(=O)O,Acid,4.27,2,Shake flask,4.5,"1,6",0.35,2,Shake flask,2.00,4.27,2,Shake flask
+Indomethacin,CC1=C(C2=C(N1C(=O)C3=CC=C(C=C3)Cl)C=CC(=C2)OC)CC(=O)O,Acid,4.27,2,Shake flask,4.5,"1,6",0.31,2,Shake flask,3.40,3.96,2,Shake flask
+Indomethacin,CC1=C(C2=C(N1C(=O)C3=CC=C(C=C3)Cl)C=CC(=C2)OC)CC(=O)O,Acid,4.27,2,Shake flask,4.5,"1,6",0.31,2,Shake flask,4.50,3.86,2,Shake flask
+Indomethacin,CC1=C(C2=C(N1C(=O)C3=CC=C(C=C3)Cl)C=CC(=C2)OC)CC(=O)O,Acid,4.27,2,Shake flask,4.5,"1,6",0.31,2,Shake flask,5.50,2.79,2,Shake flask
+Indomethacin,CC1=C(C2=C(N1C(=O)C3=CC=C(C=C3)Cl)C=CC(=C2)OC)CC(=O)O,Acid,4.27,2,Shake flask,4.5,"1,6",0.31,2,Shake flask,6.70,1.35,2,Shake flask
+Indomethacin,CC1=C(C2=C(N1C(=O)C3=CC=C(C=C3)Cl)C=CC(=C2)OC)CC(=O)O,Acid,4.27,2,Shake flask,4.5,"1,6",0.31,2,Shake flask,7.40,0.91,2,Shake flask
+Indomethacin,CC1=C(C2=C(N1C(=O)C3=CC=C(C=C3)Cl)C=CC(=C2)OC)CC(=O)O,Acid,4.27,2,Shake flask,4.5,"1,6",0.31,2,Shake flask,8.20,0.51,2,Shake flask
+Indomethacin,CC1=C(C2=C(N1C(=O)C3=CC=C(C=C3)Cl)C=CC(=C2)OC)CC(=O)O,Acid,4.27,2,Shake flask,4.5,"1,6",0.31,2,Shake flask,9.20,0.35,2,Shake flask
+Ibuprofen,CC(C)CC1=CC=C(C=C1)C(C)C(=O)O,Acid,3.97,"2,16",Shake flask,5.2,"1,6,16",-0.41,"2,16",Potentiometric,2.00,3.5,2,Shake flask
+Ibuprofen,CC(C)CC1=CC=C(C=C1)C(C)C(=O)O,Acid,3.97,"2,16",Shake flask,5.2,"1,6,16",-0.41,"2,16",Potentiometric,4.50,3.28,2,Shake flask
+Ibuprofen,CC(C)CC1=CC=C(C=C1)C(C)C(=O)O,Acid,3.97,"2,16",Shake flask,5.2,"1,6,16",-0.41,"2,16",Potentiometric,7.40,1.07,2,Shake flask
+Fluphenamic acid,C1=CC=C(C(=C1)C(=O)O)NC2=CC=CC(=C2)C(F)(F)F,Acid,5.25,2,Shake flask,3.97,"1,6,14",1.77,1,Potentiometric,2.00,5.25,2,Shake flask
+Fluphenamic acid,C1=CC=C(C(=C1)C(=O)O)NC2=CC=CC(=C2)C(F)(F)F,Acid,5.25,2,Shake flask,3.97,"1,6,14",1.77,1,Potentiometric,4.50,4.1,2,Shake flask
+Fluphenamic acid,C1=CC=C(C(=C1)C(=O)O)NC2=CC=CC(=C2)C(F)(F)F,Acid,5.25,2,Shake flask,3.97,"1,6,14",1.77,1,Potentiometric,7.40,2.02,2,Shake flask
+Indoprofen,CC(C1=CC=C(C=C1)N2CC3=CC=CC=C3C2=O)C(=O)O,Acid,2.77,2,Shake flask,4.6,20,-1.12,2,Shake flask,2.00,2.77,2,Shake flask
+Indoprofen,CC(C1=CC=C(C=C1)N2CC3=CC=CC=C3C2=O)C(=O)O,Acid,2.77,2,Shake flask,4.6,20,-1.12,2,Shake flask,4.50,2.27,2,Shake flask
+Indoprofen,CC(C1=CC=C(C=C1)N2CC3=CC=CC=C3C2=O)C(=O)O,Acid,2.77,2,Shake flask,4.6,20,-1.12,2,Shake flask,7.40,-0.38,2,Shake flask
+Ketoprofene,CC(C1=CC(=CC=C1)C(=O)C2=CC=CC=C2)C(=O)O,Acid,3.12,2,Shake flask,3.98,20,-0.95,2,Shake flask,2.00,3.12,2,Shake flask
+Ketoprofene,CC(C1=CC(=CC=C1)C(=O)C2=CC=CC=C2)C(=O)O,Acid,3.12,2,Shake flask,3.98,20,-0.95,2,Shake flask,4.50,2.53,2,Shake flask
+Ketoprofene,CC(C1=CC(=CC=C1)C(=O)C2=CC=CC=C2)C(=O)O,Acid,3.12,2,Shake flask,3.98,20,-0.95,2,Shake flask,7.40,-0.25,2,Shake flask
+15421,C1COC(C2=CC=CC=C21)C3CSC(=N3)N,Base,2.04,2,Shake flask,8.2,21,0.22,2,Shake flask,1.6,0.22,2,Shake flask
+15421,C1COC(C2=CC=CC=C21)C3CSC(=N3)N,Base,2.04,2,Shake flask,8.2,21,0.22,2,Shake flask,2.35,1.24,2,Shake flask
+15421,C1COC(C2=CC=CC=C21)C3CSC(=N3)N,Base,2.04,2,Shake flask,8.2,21,0.22,2,Shake flask,7.4,1.79,2,Shake flask
+1774,CC(C)C(C)NC(CO)C(C1=CC=CC=C1)O,Base,1.61,2,Shake flask,9.04,21,-0.86,2,Shake flask,5.5,-0.86,2,Shake flask
+1774,CC(C)C(C)NC(CO)C(C1=CC=CC=C1)O,Base,1.61,2,Shake flask,9.04,21,-0.86,2,Shake flask,6.2,-0.55,2,Shake flask
+1774,CC(C)C(C)NC(CO)C(C1=CC=CC=C1)O,Base,1.61,2,Shake flask,9.04,21,-0.86,2,Shake flask,7.4,-0.16,2,Shake flask
+1774,CC(C)C(C)NC(CO)C(C1=CC=CC=C1)O,Base,1.61,2,Shake flask,9.04,21,-0.86,2,Shake flask,8,1.12,2,Shake flask
+1774,CC(C)C(C)NC(CO)C(C1=CC=CC=C1)O,Base,1.61,2,Shake flask,9.04,21,-0.86,2,Shake flask,9.2,1.42,2,Shake flask
+1774,CC(C)C(C)NC(CO)C(C1=CC=CC=C1)O,Base,1.61,2,Shake flask,9.04,21,-0.86,2,Shake flask,10.1,1.5,2,Shake flask
+1774,CC(C)C(C)NC(CO)C(C1=CC=CC=C1)O,Base,1.61,2,Shake flask,9.04,21,-0.86,2,Shake flask,11,1.61,2,Shake flask
+1923,CC(=O)NC1=CC=C(C=C1)S(=O)(=O)N,Acid,-0.18,2,Shake flask,10.28,21,-2.18,2,Shake flask,7.4,-0.21,2,Shake flask
+1923,CC(=O)NC1=CC=C(C=C1)S(=O)(=O)N,Acid,-0.18,2,Shake flask,10.28,21,-2.18,2,Shake flask,10.1,-0.36,2,Shake flask
+1923,CC(=O)NC1=CC=C(C=C1)S(=O)(=O)N,Acid,-0.18,2,Shake flask,10.28,21,-2.18,2,Shake flask,11,-0.96,2,Shake flask
+1923,CC(=O)NC1=CC=C(C=C1)S(=O)(=O)N,Acid,-0.18,2,Shake flask,10.28,21,-2.18,2,Shake flask,12,-2.18,2,Shake flask
+2151,CC(C)NC(CO)C(C1=CC=CC=C1)O,Base,1.19,2,Shake flask,8.7,21,-2.15,2,Shake flask,6.2,-2.15,2,Shake flask
+2151,CC(C)NC(CO)C(C1=CC=CC=C1)O,Base,1.19,2,Shake flask,8.7,21,-2.15,2,Shake flask,7.4,-0.89,2,Shake flask
+2151,CC(C)NC(CO)C(C1=CC=CC=C1)O,Base,1.19,2,Shake flask,8.7,21,-2.15,2,Shake flask,8,-0.07,2,Shake flask
+2151,CC(C)NC(CO)C(C1=CC=CC=C1)O,Base,1.19,2,Shake flask,8.7,21,-2.15,2,Shake flask,8.5,0.19,2,Shake flask
+2151,CC(C)NC(CO)C(C1=CC=CC=C1)O,Base,1.19,2,Shake flask,8.7,21,-2.15,2,Shake flask,9.2,0.63,2,Shake flask
+2151,CC(C)NC(CO)C(C1=CC=CC=C1)O,Base,1.19,2,Shake flask,8.7,21,-2.15,2,Shake flask,10.1,0.82,2,Shake flask
+2151,CC(C)NC(CO)C(C1=CC=CC=C1)O,Base,1.19,2,Shake flask,8.7,21,-2.15,2,Shake flask,11,1.19,2,Shake flask
+703,CC(CC1=CC=C(C=C1)F)NC,Base,2.15,2,Shake flask,10.2,21,-0.86,2,Shake flask,7.4,-0.75,2,Shake flask
+703,CC(CC1=CC=C(C=C1)F)NC,Base,2.15,2,Shake flask,10.2,21,-0.86,2,Shake flask,8,0.24,2,Shake flask
+703,CC(CC1=CC=C(C=C1)F)NC,Base,2.15,2,Shake flask,10.2,21,-0.86,2,Shake flask,8.5,0.5,2,Shake flask
+703,CC(CC1=CC=C(C=C1)F)NC,Base,2.15,2,Shake flask,10.2,21,-0.86,2,Shake flask,10.1,1.73,2,Shake flask
+703,CC(CC1=CC=C(C=C1)F)NC,Base,2.15,2,Shake flask,10.2,21,-0.86,2,Shake flask,11,2.15,2,Shake flask
+720,CC(CC1=CC=C(C=C1)N)NC,Base,0.81,2,Shake flask,10.3,21,-4,2,Shake flask,7.4,-2.07,2,Shake flask
+720,CC(CC1=CC=C(C=C1)N)NC,Base,0.81,2,Shake flask,10.3,21,-4,2,Shake flask,8,-1.39,2,Shake flask
+720,CC(CC1=CC=C(C=C1)N)NC,Base,0.81,2,Shake flask,10.3,21,-4,2,Shake flask,8.5,-0.98,2,Shake flask
+720,CC(CC1=CC=C(C=C1)N)NC,Base,0.81,2,Shake flask,10.3,21,-4,2,Shake flask,9.2,-0.34,2,Shake flask
+720,CC(CC1=CC=C(C=C1)N)NC,Base,0.81,2,Shake flask,10.3,21,-4,2,Shake flask,10.1,0.33,2,Shake flask
+720,CC(CC1=CC=C(C=C1)N)NC,Base,0.81,2,Shake flask,10.3,21,-4,2,Shake flask,11,0.81,2,Shake flask
+954,C1OC2=C(O1)C=C(C(=C2)C(=O)O)N,Acid,0.9,2,Shake flask,4.8,21,-2.5,2,Shake flask,1.6,-0.09,2,Shake flask
+954,C1OC2=C(O1)C=C(C(=C2)C(=O)O)N,Acid,0.9,2,Shake flask,4.8,21,-2.5,2,Shake flask,2.35,0.73,2,Shake flask
+954,C1OC2=C(O1)C=C(C(=C2)C(=O)O)N,Acid,0.9,2,Shake flask,4.8,21,-2.5,2,Shake flask,5.5,0.5,2,Shake flask
+954,C1OC2=C(O1)C=C(C(=C2)C(=O)O)N,Acid,0.9,2,Shake flask,4.8,21,-2.5,2,Shake flask,6.2,0.4,2,Shake flask
+954,C1OC2=C(O1)C=C(C(=C2)C(=O)O)N,Acid,0.9,2,Shake flask,4.8,21,-2.5,2,Shake flask,8,-0.72,2,Shake flask
+954,C1OC2=C(O1)C=C(C(=C2)C(=O)O)N,Acid,0.9,2,Shake flask,4.8,21,-2.5,2,Shake flask,8.5,-2.01,2,Shake flask
+ACS0393,CCOC1=CC=C(C=C1)C(=O)O,Acid,1.8,2,Shake flask,4.4,21,-1.7,2,Shake flask,5.5,1.4,2,Shake flask
+ACS0393,CCOC1=CC=C(C=C1)C(=O)O,Acid,1.8,2,Shake flask,4.4,21,-1.7,2,Shake flask,6.2,0.25,2,Shake flask
+BAS85763,C1=CC(=CC=C1C(=O)O)OC2=CC=C(C=C2)C(=O)O,Acid,2.42,2,Shake flask,4,21,-2.02,2,Shake flask,2.35,2.42,2,Shake flask
+BAS85763,C1=CC(=CC=C1C(=O)O)OC2=CC=C(C=C2)C(=O)O,Acid,2.42,2,Shake flask,4,21,-2.02,2,Shake flask,4.5,2.18,2,Shake flask
+BAS85763,C1=CC(=CC=C1C(=O)O)OC2=CC=C(C=C2)C(=O)O,Acid,2.42,2,Shake flask,4,21,-2.02,2,Shake flask,5.5,1.24,2,Shake flask
+BAS85763,C1=CC(=CC=C1C(=O)O)OC2=CC=C(C=C2)C(=O)O,Acid,2.42,2,Shake flask,4,21,-2.02,2,Shake flask,6.2,0.94,2,Shake flask
+BAS85763,C1=CC(=CC=C1C(=O)O)OC2=CC=C(C=C2)C(=O)O,Acid,2.42,2,Shake flask,4,21,-2.02,2,Shake flask,10.1,-2.02,2,Shake flask
+Benzoxazinone,C1C(=O)NC2=CC=CC=C2O1,Acid,1.31,2,Shake flask,11.63,21,0.34,2,Shake flask,8,1.31,2,Shake flask
+Benzoxazinone,C1C(=O)NC2=CC=CC=C2O1,Acid,1.31,2,Shake flask,11.63,21,0.34,2,Shake flask,11,1.3,2,Shake flask
+Benzoxazinone,C1C(=O)NC2=CC=CC=C2O1,Acid,1.31,2,Shake flask,11.63,21,0.34,2,Shake flask,12,1.09,2,Shake flask
+Benzoxazinone,C1C(=O)NC2=CC=CC=C2O1,Acid,1.31,2,Shake flask,11.63,21,0.34,2,Shake flask,13,0.34,2,Shake flask
+6-ipr-benzox.,CC(C)NCC(COC1=CC2=C(C=C1)OCC(=O)N2)O,Base,1.26,2,Shake flask,9.26,21,-2.8,2,Shake flask,7.4,-1.05,2,Shake flask
+6-ipr-benzox.,CC(C)NCC(COC1=CC2=C(C=C1)OCC(=O)N2)O,Base,1.26,2,Shake flask,9.26,21,-2.8,2,Shake flask,10.1,1.1,2,Shake flask
+6-ipr-benzox.,CC(C)NCC(COC1=CC2=C(C=C1)OCC(=O)N2)O,Base,1.26,2,Shake flask,9.26,21,-2.8,2,Shake flask,10.4,1.25,2,Shake flask
+6-ipr-benzox.,CC(C)NCC(COC1=CC2=C(C=C1)OCC(=O)N2)O,Base,1.26,2,Shake flask,9.26,21,-2.8,2,Shake flask,11,1.26,2,Shake flask
+6-ipr-benzox.,CC(C)NCC(COC1=CC2=C(C=C1)OCC(=O)N2)O,Base,1.26,2,Shake flask,9.26,21,-2.8,2,Shake flask,12,0.91,2,Shake flask
+6-tbut-benzox.,CC(C)(C)NCC(COC1=CC2=C(C=C1)OCC(=O)N2)O,Base,1.54,2,Shake flask,9.4,21,-2.6,2,Shake flask,7.4,-0.74,2,Shake flask
+6-tbut-benzox.,CC(C)(C)NCC(COC1=CC2=C(C=C1)OCC(=O)N2)O,Base,1.54,2,Shake flask,9.4,21,-2.6,2,Shake flask,11,1.54,2,Shake flask
+N-ipr-benzox.,CC(C)NCC(CN1C(=O)COC2=CC=CC=C21)O,Base,1.44,2,Shake flask,9.8,21,-2.8,2,Shake flask,7.4,-0.87,2,Shake flask
+N-ipr-benzox.,CC(C)NCC(CN1C(=O)COC2=CC=CC=C21)O,Base,1.44,2,Shake flask,9.8,21,-2.8,2,Shake flask,12,1.44,2,Shake flask
+Celiprolol,CCN(CC)C(=O)NC1=CC(=C(C=C1)OCC(CNC(C)(C)C)O)C(=O)C,Base,1.92,2,Shake flask,9.66,pubChem,-1.8,2,Shake flask,5.5,-1.8,2,Shake flask
+nor-Fluoxetine,C1=CC=C(C=C1)C(CCN)OC2=CC=C(C=C2)C(F)(F)F,Base,3.7,2,Shake flask,10,22,0.59,2,Shake flask,5.5,0.59,2,Shake flask
+Promethazine,CC(CN1C2=CC=CC=C2SC3=CC=CC=C31)N(C)C,Base,4.75,4,Shake flask,9.11,"4,16",0.99,2,Shake flask,5.5,0.99,2,Shake flask
+Aprindine,CCN(CC)CCCN(C1CC2=CC=CC=C2C1)C3=CC=CC=C3,Base,4.86,2,Shake flask,9.95,10,-0.09,2,Shake flask,5,-0.09,2,Shake flask
+Flecainide,C1CCNC(C1)CNC(=O)C2=C(C=CC(=C2)OCC(F)(F)F)OCC(F)(F)F,Base,3.78,2,Shake flask,9.53,10,-0.75,2,Shake flask,5,-0.75,2,Shake flask
+Propafenone,CCCNCC(COC1=CC=CC=C1C(=O)CCC2=CC=CC=C2)O,Base,4.63,4,Shake flask,9.62,"4,10",0.01,2,Shake flask,5,0.01,2,Shake flask
+Quinacainol,CC(C)(C)C1=NC2=CC=CC=C2C(=C1)C(CCC3CCNCC3)O,Base,3.63,2,Shake flask,10.73,10,0.3,2,Shake flask,7.4,0.3,2,Shake flask
+Indecainide,CC(C)NCCCC1(C2=CC=CC=C2C3=CC=CC=C31)C(=O)N,Base,3.11,2,Shake flask,10.87,"4,10",-0.36,2,Shake flask,7.4,-0.36,2,Shake flask
+Disopyramide,CC(C)N(CCC(C1=CC=CC=C1)(C2=CC=CC=N2)C(=O)N)C(C)C,Base,2.58,2,Shake flask,10.66,"4,10",-0.68,2,Shake flask,7.4,-0.68,2,Shake flask
+Mexiletine,CC1=C(C(=CC=C1)C)OCC(C)N,Base,2.15,2,Shake flask,9.19,"4,10",0.35,2,Shake flask,7.4,0.35,2,Shake flask
+Atenolol,CC(C)NCC(COC1=CC=C(C=C1)CC(=O)N)O,Base,0.78,2,Shake flask,9.6,"6,10,19",-2.8,26,Potentiometric,7.4,-1.42,2,Shake flask
+Thioridazine,CN1CCCCC1CCN2C3=CC=CC=C3SC4=C2C=C(C=C4)SC,Base,5.99,2,Shake flask,9.59,"16,10,18",1.4,2,Shake flask,5,1.4,2,Shake flask
+Thiethylperazine,CCSC1=CC2=C(C=C1)SC3=CC=CC=C3N2CCCN4CCN(CC4)C,Base,5.18,2,Shake flask,8.12,"10,16",2,2,Shake flask,5,2.06,2,Shake flask
+Levomepromazine,CC(CN1C2=CC=CC=C2SC3=C1C=C(C=C3)OC)CN(C)C,Base,4.86,2,Shake flask,9.19,"10,16",0.67,2,Shake flask,5,0.67,2,Shake flask
+Alimemazine,CC(CN1C2=CC=CC=C2SC3=CC=CC=C31)CN(C)C,Base,4.81,2,Shake flask,9.11,10,0.7,2,Shake flask,5,0.7,2,Shake flask
+Fluphenazine,C1CN(CCN1CCCN2C3=CC=CC=C3SC4=C2C=C(C=C4)C(F)(F)F)CCO,Base,4.79,2,Shake flask,8.1,10,1.69,2,Shake flask,5,1.69,2,Shake flask
+Sulforidazine,CN1CCCCC1CCN2C3=CC=CC=C3SC4=C2C=C(C=C4)S(=O)(=O)C,Base,4.45,2,Shake flask,9.51,10,-0.06,2,Shake flask,5,-0.06,2,Shake flask
+Acetic acid,CC(=O)O,Acid,-0.26,32,Shake flask,4.76,32,-1.39,32,Shake flask,1.2,-0.28,32,Shake flask
+Acetic acid,CC(=O)O,Acid,-0.26,32,Shake flask,4.76,32,-1.39,32,Shake flask,4.3,-0.48,32,Shake flask
+Acetic acid,CC(=O)O,Acid,-0.26,32,Shake flask,4.76,32,-1.39,32,Shake flask,7,-1.29,32,Shake flask
+Acetic acid,CC(=O)O,Acid,-0.26,32,Shake flask,4.76,32,-1.39,32,Shake flask,9,-1.41,32,Shake flask
+Acetic acid,CC(=O)O,Acid,-0.26,32,Shake flask,4.76,32,-1.39,32,Shake flask,13.2,-1.53,32,Shake flask
+Benzimidazole,C1=CC=C2C(=C1)NC=N2,Base,1.35,32,Shake flask,5.5,32,-0.94,32,Shake flask,0.6,-1.08,32,Shake flask
+Benzimidazole,C1=CC=C2C(=C1)NC=N2,Base,1.35,32,Shake flask,5.5,32,-0.94,32,Shake flask,2.2,-0.91,32,Shake flask
+Benzimidazole,C1=CC=C2C(=C1)NC=N2,Base,1.35,32,Shake flask,5.5,32,-0.94,32,Shake flask,3.4,-0.5,32,Shake flask
+Benzimidazole,C1=CC=C2C(=C1)NC=N2,Base,1.35,32,Shake flask,5.5,32,-0.94,32,Shake flask,5.3,0.91,32,Shake flask
+Benzimidazole,C1=CC=C2C(=C1)NC=N2,Base,1.35,32,Shake flask,5.5,32,-0.94,32,Shake flask,7.4,1.35,32,Shake flask
+Benzimidazole,C1=CC=C2C(=C1)NC=N2,Base,1.35,32,Shake flask,5.5,32,-0.94,32,Shake flask,8.2,1.32,32,Shake flask
+Benzimidazole,C1=CC=C2C(=C1)NC=N2,Base,1.35,32,Shake flask,5.5,32,-0.94,32,Shake flask,9.2,1.32,32,Shake flask
+Benzimidazole,C1=CC=C2C(=C1)NC=N2,Base,1.35,32,Shake flask,5.5,32,-0.94,32,Shake flask,10.9,1.35,32,Shake flask
+Benzoic acid,C1=CC=C(C=C1)C(=O)O,Acid,1.95,32,Shake flask,4.2,32,-1.95,32,Shake flask,1,1.96,32,Shake flask
+Benzoic acid,C1=CC=C(C=C1)C(=O)O,Acid,1.95,32,Shake flask,4.2,32,-1.95,32,Shake flask,5.5,0.68,32,Shake flask
+Benzoic acid,C1=CC=C(C=C1)C(=O)O,Acid,1.95,32,Shake flask,4.2,32,-1.95,32,Shake flask,7.2,-1.03,32,Shake flask
+Benzoic acid,C1=CC=C(C=C1)C(=O)O,Acid,1.95,32,Shake flask,4.2,32,-1.95,32,Shake flask,7.4,-1.21,32,Shake flask
+Benzoic acid,C1=CC=C(C=C1)C(=O)O,Acid,1.95,32,Shake flask,4.2,32,-1.95,32,Shake flask,10.8,-1.94,32,Shake flask
+Imidazole,C1=CN=CN1,Base,-0.1,32,Shake flask,6.97,32,-2.74,32,Shake flask,0.5,-2.72,32,Shake flask
+Imidazole,C1=CN=CN1,Base,-0.1,32,Shake flask,6.97,32,-2.74,32,Shake flask,2.6,-2.45,32,Shake flask
+Imidazole,C1=CN=CN1,Base,-0.1,32,Shake flask,6.97,32,-2.74,32,Shake flask,5.6,-1.28,32,Shake flask
+Imidazole,C1=CN=CN1,Base,-0.1,32,Shake flask,6.97,32,-2.74,32,Shake flask,7,-0.39,32,Shake flask
+Imidazole,C1=CN=CN1,Base,-0.1,32,Shake flask,6.97,32,-2.74,32,Shake flask,7.4,-0.22,32,Shake flask
+Imidazole,C1=CN=CN1,Base,-0.1,32,Shake flask,6.97,32,-2.74,32,Shake flask,9.1,-0.086,32,Shake flask
+Imidazole,C1=CN=CN1,Base,-0.1,32,Shake flask,6.97,32,-2.74,32,Shake flask,10.7,-0.15,32,Shake flask
+Imidazole,C1=CN=CN1,Base,-0.1,32,Shake flask,6.97,32,-2.74,32,Shake flask,13.4,-0.086,32,Shake flask
+Isophthalic acid,C1=CC(=CC(=C1)C(=O)O)C(=O)O,Acid,1.69,32,Shake flask,3.54,32,-1.96,32,Shake flask,1.4,1.66,32,Shake flask
+Isophthalic acid,C1=CC(=CC(=C1)C(=O)O)C(=O)O,Acid,1.69,32,Shake flask,3.54,32,-1.96,32,Shake flask,4.6,0.76,32,Shake flask
+Isophthalic acid,C1=CC(=CC(=C1)C(=O)O)C(=O)O,Acid,1.69,32,Shake flask,3.54,32,-1.96,32,Shake flask,7.1,-2.03,32,Shake flask
+Isophthalic acid,C1=CC(=CC(=C1)C(=O)O)C(=O)O,Acid,1.69,32,Shake flask,3.54,32,-1.96,32,Shake flask,9.1,-1.9,32,Shake flask
+Isophthalic acid,C1=CC(=CC(=C1)C(=O)O)C(=O)O,Acid,1.69,32,Shake flask,3.54,32,-1.96,32,Shake flask,13.2,-1.96,32,Shake flask
+o-phthalic acid,C1=CC=C(C(=C1)C(=O)O)C(=O)O,Acid,0.52,32,Shake flask,2.93,32,-2.83,32,Shake flask,0.9,0.66,32,Shake flask
+o-phthalic acid,C1=CC=C(C(=C1)C(=O)O)C(=O)O,Acid,0.52,32,Shake flask,2.93,32,-2.83,32,Shake flask,3,0.15,32,Shake flask
+o-phthalic acid,C1=CC=C(C(=C1)C(=O)O)C(=O)O,Acid,0.52,32,Shake flask,2.93,32,-2.83,32,Shake flask,6,-2.53,32,Shake flask
+o-phthalic acid,C1=CC=C(C(=C1)C(=O)O)C(=O)O,Acid,0.52,32,Shake flask,2.93,32,-2.83,32,Shake flask,6.2,-2.77,32,Shake flask
+o-phthalic acid,C1=CC=C(C(=C1)C(=O)O)C(=O)O,Acid,0.52,32,Shake flask,2.93,32,-2.83,32,Shake flask,9,-2.69,32,Shake flask
+o-phthalic acid,C1=CC=C(C(=C1)C(=O)O)C(=O)O,Acid,0.52,32,Shake flask,2.93,32,-2.83,32,Shake flask,13.1,-3.3,32,Shake flask
+Oxalic acid,C(=O)(C(=O)O)O,Acid,-0.59,32,Shake flask,1.27,32,-2.77,32,Shake flask,1.2,-0.87,32,Shake flask
+Oxalic acid,C(=O)(C(=O)O)O,Acid,-0.59,32,Shake flask,1.27,32,-2.77,32,Shake flask,4.2,-2.72,32,Shake flask
+Oxalic acid,C(=O)(C(=O)O)O,Acid,-0.59,32,Shake flask,1.27,32,-2.77,32,Shake flask,6.9,-2.77,32,Shake flask
+Oxalic acid,C(=O)(C(=O)O)O,Acid,-0.59,32,Shake flask,1.27,32,-2.77,32,Shake flask,8.9,-2.77,32,Shake flask
+Oxalic acid,C(=O)(C(=O)O)O,Acid,-0.59,32,Shake flask,1.27,32,-2.77,32,Shake flask,12.7,-2.77,32,Shake flask
+Salicylic acid,C1=CC=C(C(=C1)C(=O)O)O,Acid,2.21,32,Shake flask,2.98,32,-1.38,32,Shake flask,1.2,2.19,32,Shake flask
+Salicylic acid,C1=CC=C(C(=C1)C(=O)O)O,Acid,2.21,32,Shake flask,2.98,32,-1.38,32,Shake flask,4.2,0.92,32,Shake flask
+Salicylic acid,C1=CC=C(C(=C1)C(=O)O)O,Acid,2.21,32,Shake flask,2.98,32,-1.38,32,Shake flask,7,-1.15,32,Shake flask
+Salicylic acid,C1=CC=C(C(=C1)C(=O)O)O,Acid,2.21,32,Shake flask,2.98,32,-1.38,32,Shake flask,9,-1.38,32,Shake flask
+Salicylic acid,C1=CC=C(C(=C1)C(=O)O)O,Acid,2.21,32,Shake flask,2.98,32,-1.38,32,Shake flask,13.2,-1.8,32,Shake flask
+Theophylline,CN1C2=C(C(=O)N(C1=O)C)NC=N2,Acid,0.01,32,Shake flask,8.8,32,-2.47,32,Shake flask,0.56,-0.45,32,Shake flask
+Theophylline,CN1C2=C(C(=O)N(C1=O)C)NC=N2,Acid,0.01,32,Shake flask,8.8,32,-2.47,32,Shake flask,2.2,-0.067,32,Shake flask
+Theophylline,CN1C2=C(C(=O)N(C1=O)C)NC=N2,Acid,0.01,32,Shake flask,8.8,32,-2.47,32,Shake flask,7.4,-0.061,32,Shake flask
+Theophylline,CN1C2=C(C(=O)N(C1=O)C)NC=N2,Acid,0.01,32,Shake flask,8.8,32,-2.47,32,Shake flask,9,-0.5,32,Shake flask
+Theophylline,CN1C2=C(C(=O)N(C1=O)C)NC=N2,Acid,0.01,32,Shake flask,8.8,32,-2.47,32,Shake flask,10.6,-1.66,32,Shake flask
+Theophylline,CN1C2=C(C(=O)N(C1=O)C)NC=N2,Acid,0.01,32,Shake flask,8.8,32,-2.47,32,Shake flask,11.2,-2.1,32,Shake flask
+Theophylline,CN1C2=C(C(=O)N(C1=O)C)NC=N2,Acid,0.01,32,Shake flask,8.8,32,-2.47,32,Shake flask,13.2,-2.47,32,Shake flask
+Tyrosine,C1=CC(=CC=C1CC(C(=O)O)N)O,Acid,-2.02,33,Shake flask,10.3,33,-2.68,33,Shake flask,1.5,-2.23,33,Shake flask
+Tyrosine,C1=CC(=CC=C1CC(C(=O)O)N)O,Acid,-2.02,33,Shake flask,10.3,33,-2.68,33,Shake flask,3.2,-2.06,33,Shake flask
+Tyrosine,C1=CC(=CC=C1CC(C(=O)O)N)O,Acid,-2.02,33,Shake flask,10.3,33,-2.68,33,Shake flask,4.2,-2.05,33,Shake flask
+Tyrosine,C1=CC(=CC=C1CC(C(=O)O)N)O,Acid,-2.02,33,Shake flask,10.3,33,-2.68,33,Shake flask,5.3,-2.02,33,Shake flask
+Tyrosine,C1=CC(=CC=C1CC(C(=O)O)N)O,Acid,-2.02,33,Shake flask,10.3,33,-2.68,33,Shake flask,6.4,-2.05,33,Shake flask
+Tyrosine,C1=CC(=CC=C1CC(C(=O)O)N)O,Acid,-2.02,33,Shake flask,10.3,33,-2.68,33,Shake flask,7,-2.03,33,Shake flask
+Tyrosine,C1=CC(=CC=C1CC(C(=O)O)N)O,Acid,-2.02,33,Shake flask,10.3,33,-2.68,33,Shake flask,9,-2.08,33,Shake flask
+Tyrosine,C1=CC(=CC=C1CC(C(=O)O)N)O,Acid,-2.02,33,Shake flask,10.3,33,-2.68,33,Shake flask,9.6,-2.38,33,Shake flask
+Tyrosine,C1=CC(=CC=C1CC(C(=O)O)N)O,Acid,-2.02,33,Shake flask,10.3,33,-2.68,33,Shake flask,11,-2.63,33,Shake flask
+Tyrosine,C1=CC(=CC=C1CC(C(=O)O)N)O,Acid,-2.02,33,Shake flask,10.3,33,-2.68,33,Shake flask,12.6,-2.68,33,Shake flask
+Histidine,C1=C(NC=N1)CC(C(=O)O)N,Base,-2.93,33,Shake flask,6.6,33,-3.41,33,Shake flask,1.1,-3.41,33,Shake flask
+Histidine,C1=C(NC=N1)CC(C(=O)O)N,Base,-2.93,33,Shake flask,6.6,33,-3.41,33,Shake flask,1.7,-3.4,33,Shake flask
+Histidine,C1=C(NC=N1)CC(C(=O)O)N,Base,-2.93,33,Shake flask,6.6,33,-3.41,33,Shake flask,3.4,-3.24,33,Shake flask
+Histidine,C1=C(NC=N1)CC(C(=O)O)N,Base,-2.93,33,Shake flask,6.6,33,-3.41,33,Shake flask,5.3,-3.13,33,Shake flask
+Histidine,C1=C(NC=N1)CC(C(=O)O)N,Base,-2.93,33,Shake flask,6.6,33,-3.41,33,Shake flask,6.6,-2.94,33,Shake flask
+Histidine,C1=C(NC=N1)CC(C(=O)O)N,Base,-2.93,33,Shake flask,6.6,33,-3.41,33,Shake flask,7.4,-2.93,33,Shake flask
+Histidine,C1=C(NC=N1)CC(C(=O)O)N,Base,-2.93,33,Shake flask,6.6,33,-3.41,33,Shake flask,9.5,-3.06,33,Shake flask
+Histidine,C1=C(NC=N1)CC(C(=O)O)N,Base,-2.93,33,Shake flask,6.6,33,-3.41,33,Shake flask,12.4,-3.11,33,Shake flask
