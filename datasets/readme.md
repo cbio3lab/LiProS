@@ -15,3 +15,7 @@ Initial calculations of $\log{D_{\text{Eq. 1}}}$ and $\log{D_{\text{Eq. 2}}}$
 
 ## LiProS_descriptors_smiles.csv
 Dataset with every single descriptor calculated prior to the feature selection.
+
+
+## AQME-ROBERT_lipros_data.csv
+Dataset with the descriptors calculated with the AQME package. This can be used to reproduce ROBERT's results.
