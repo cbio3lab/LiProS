@@ -2,7 +2,7 @@
 A FAIR (*Findable, Accessible, Interoperable, and Reusable*) workflow to predict the most appropriate lipophilicity formalism for small molecules.
 ---
 
-<img src="https://i.imgur.com/BrGFRlp.png" width="500" style="display: block; margin: 0 auto">
+<img src="https://i.imgur.com/BrGFRlp.png" width="400" style="display: block; margin: 0 auto">
 
 ---
 
