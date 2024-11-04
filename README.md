@@ -28,4 +28,4 @@ Click here to access our Google Colab Script: https://colab.research.google.com/
 
 ---
 
-This repository contains every script, dataset, and supplementary information of our manuscript *"LiProS: FAIR simulation workflow to Predict Accurate Lipophilicity Profiles for Small Molecules."*
+This repository contains every script, dataset, and supplementary information of our manuscript "LiProS: FAIR simulation workflow to Predict Accurate Lipophilicity Profiles for Small Molecules.", *ChemRxiv*, **2024**: https://doi.org/10.26434/chemrxiv-2024-znppb-v2
