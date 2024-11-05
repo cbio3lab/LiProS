@@ -1,6 +1,6 @@
 # **ROBERT ML MODELS**
 
-We used ROBERT, an automated ML protocol for chemistry. You can find more information about its purpose and application in this preprint: Dalmau, D.; Requena, J. V. A., *WIREs Computational Molecular Science*, **2024**, *e1733*. https://doi.org/10.1002/wcms.1733 .
+We used ROBERT, an automated ML protocol for chemistry. You can find more information about its purpose and application in this article: Dalmau, D.; Requena, J. V. A., *WIREs Computational Molecular Science*, **2024**, *e1733*. https://doi.org/10.1002/wcms.1733 .
 
 Moreover, you can find further info about its documentation here: https://robert.readthedocs.io/en/latest/index.html
 
