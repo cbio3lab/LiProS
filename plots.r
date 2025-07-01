@@ -204,85 +204,51 @@ ggsave('plots/naprore.png', plot = p3, width = 8, height = 6, units = 'in')
 
 
 
+#logPN - logPI plot
+dataset$difflPNlPI <- dataset$logPN-dataset$logPI
+dataset$condtext <- ifelse(dataset$cond == "0", "Eq. 2", "Eq. 1")
 
-####plot OUTLIERS NAPRORE
+library(latex2exp)
 
-outliers_naprore <- read.csv('NAPRORE_lipros/outliers.csv')
-acids_norm <- acids_d[,-ncol(acids_d)]
-
-for (i in 1:ncol(acids_norm)){
-  acids_norm[,i] <- abs(acids_norm[,i])/max(acids_norm[,i])
-  outliers_naprore[,i] <- abs(outliers_naprore[,i])/max(acids_norm[,i])
-}
-
-acids_norm <- pivot_longer(acids_norm, 
-                           cols = everything()
-                           ,names_to = "Descriptor", 
-                           values_to = "rel_value")
-
-
-outliers_naprore <- pivot_longer(outliers_naprore, 
-                           cols = everything()
-                           ,names_to = "Descriptor", 
-                           values_to = "rel_value")
-
-outliers_naprore$mol <- c(rep('Gemin D', 21), rep('Borucoside', 21))
-
-
-
-
-p4 <- ggplot() + 
-  geom_violin(aes(x = acids_norm$rel_value, y = acids_norm$Descriptor, fill = acids_norm$Descriptor), width = 2) + 
-  geom_point(aes(x = outliers_naprore$rel_value[-c(1,22)], y = outliers_naprore$Descriptor[-c(1,22)], colour = outliers_naprore$mol[-c(1,22)]),
-             size = 4) + 
-  theme_minimal() + 
-  theme(panel.border = element_rect(fill = NA, color = 'black', linewidth = 1), 
-        legend.direction = 'horizontal', 
-        legend.position = 'bottom',
-        legend.text = element_text(size = 14),
+#distribution of differences for bot groups
+dlogP_v <- ggplot(dataset, aes(x = condtext, y = difflPNlPI, fill = condtext)) +
+  geom_jitter(size = 0.7) +
+  geom_violin(alpha = 0.5) + 
+  geom_boxplot(width = 0.1) + 
+  scale_fill_manual(values = c('red3', 'seagreen4')) + 
+  xlab("Best formalism") + 
+  ylab(TeX(r"($\log{P_{N}} - \log{P_{I}^{app}}$)")) + 
+  theme(panel.background = element_blank(),
+        panel.border = element_rect(fill = NA, color = 'black', linewidth = 1), 
+        legend.position = 'none', 
         axis.text = element_text(size = 14), 
-        axis.title = element_text(size = 16)) + 
-  guides(fill = 'none') + 
-  scale_color_manual("", values = c("red4", "purple4")) + 
-  labs(x = "Relative value", y = "Descriptor")
-
-
-ggsave('plots/outliers.pdf', plot = p4, width = 8.5, height = 11, units = 'in')
-ggsave('plots/outliers.png', plot = p4, width = 8.5, height = 11, units = 'in')
-
-
-
-
-#chemical space mapping of naprore
-naprore$NPC_PATHWAY_1 <- gsub("Amino acids and Peptides", "Amino acids \nand Peptides", naprore$NPC_PATHWAY_1)
-naprore$NPC_PATHWAY_1 <- gsub("Shikimates and Phenylpropanoids", "Shikimates and \nPhenylpropanoids",naprore$NPC_PATHWAY_1)
-
-naprore_violins <- list()
-
-for (i in 24:29) {
-  col_name <- colnames(naprore)[i]
+        axis.title = element_text(size = 16))
   
-p <- ggplot(naprore) + 
-    geom_violin(aes_string(y = "NPC_PATHWAY_1", fill = "NPC_PATHWAY_1", x = col_name),color="black", size=0.4) +
-    geom_jitter(aes_string(y = "NPC_PATHWAY_1", color = "NPC_PATHWAY_1", x = col_name),width=0.8, alpha = 0.5) +
-    theme(panel.background = element_blank(), panel.border = element_rect(fill=NA,colour="black",size=1),
-          axis.title.x = element_text(size = 12),
-          axis.text.x = element_text(size = 10),
-          axis.text.y = element_text(size = 10),
-          axis.title.y = element_text(size = 12),
-          legend.title = element_text(size=12),
-          legend.text = element_text(size=10),
-          legend.position = 'none') + 
-    labs(x=col_name,y='Pathway') 
-  
-  naprore_violins[[i-23]] <- p #se pone cada grafica en la lista
-}
-  
-plots_grid <- grid.arrange(do.call(arrangeGrob,c(naprore_violins, ncol = 3, nrow = 2)))
-ggsave('plots/naprore_cs.pdf', plot = plots_grid, width = 14, height = 8, units = 'in')
-ggsave('plots/naprore_cs.png', plot = plots_grid, width = 14, height = 8, units = 'in')
+
+
+#barplot of each condition (dlogP < 2 and dlogP > 2)
+dataset$difflogP_lab <- ifelse(dataset$difflPNlPI < 2, "< 2", ">= 2")
+count_dlogP <- dataset %>% count(condtext,difflogP_lab)
+ratio_eq1 <- count_dlogP$n[1]/count_dlogP$n[2]
+ratio_eq2 <- count_dlogP$n[3]/count_dlogP$n[4]
 
 
 
+dlogP_b <- ggplot(dataset, aes(fill = difflogP_lab, x = condtext)) +
+  geom_bar(position = 'dodge', color = 'black') + 
+  labs(x = "Best formalism", y = "") +
+  scale_fill_manual(TeX(r"($\log{P_{N}} - \log{P_{I}^{app}}$)"), values = c('blue4', 'green3')) + 
+  theme(panel.background = element_blank(),
+        panel.border = element_rect(fill = NA, color = 'black', linewidth = 1), 
+        axis.text = element_text(size = 14), 
+        axis.title = element_text(size = 16),
+        legend.text = element_text(size = 12),
+        legend.title = element_text(size = 14),
+        legend.position = c(0.78,0.8)) + 
+  annotate("text", x = 1, y = 215, label = paste("ratio =", round(ratio_eq1,2))) + 
+  annotate("text", x = 2, y = 55, label = paste("ratio =", round(ratio_eq2,2)))
 
-  
+
+grid_dlogP <- grid.arrange(do.call(arrangeGrob, c(list(dlogP_v,dlogP_b),ncol = 2, nrow = 1)))
+ggsave('plots/dlogP.pdf', plot = grid_dlogP, width = 9, height = 4, units = 'in')
+ggsave('plots/dlogP.png', plot = grid_dlogP, width = 9, height = 4, units = 'in')
