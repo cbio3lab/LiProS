@@ -30,7 +30,7 @@ Click here to access our Google Colab Script: https://colab.research.google.com/
 
 ---
 
-This repository contains every script, dataset, and supplementary information of our manuscript "LiProS: Findable, Accessible, Interoperable, and Reusable Data Simulation Workflow to Predict Accurate Lipophilicity Profiles for Small Molecules.", *Mol. Inform.*, **2025**, *44 (8)*, e202500136: [https://doi.org/10.26434/chemrxiv-2024-znppb-v2](https://doi.org/10.1002/minf.70007)
+This repository contains every script, dataset, and supplementary information of our manuscript "LiProS: Findable, Accessible, Interoperable, and Reusable Data Simulation Workflow to Predict Accurate Lipophilicity Profiles for Small Molecules.", *Mol. Inform.*, **2025**, *44 (8)*, e202500136: [https://doi.org/10.1002/minf.70007](https://doi.org/10.1002/minf.70007)
 
 ---
 
